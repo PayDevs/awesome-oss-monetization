@@ -26,12 +26,12 @@ Variants & Options:
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Low    | Some descriptions and bank info is sufficient
 | Effort to maintain income         | High   | New description for every new feature & feature development
-| Visibility                        | Medium | Every new bug issue will be a reminder for the bug bounties
-| Necessity to pay                  | Medium | Might be necessary for critical bugs 
-| Scalability                       | Low    | Scales to the time available to fix bugs
+| Visibility                        | Medium | Every new issue will be a reminder for the issue bounties
+| Necessity to pay                  | Medium | Might be necessary for important issues 
+| Scalability                       | Low    | Scales to the time available to develop features
 | One-time Income                   | Medium | Often based on hourly wage
-| Recurring Income                  | Low    | Bugs never cease but payers might
-| Income Stability / Predictability | Low    | Too many bugs --> no users; Too few bugs --> no income
+| Recurring Income                  | Low    | Feature requests never cease but payers might
+| Income Stability / Predictability | Low    | Too few features --> no users; Too many features --> no income
 | Entry Threshold for client        | Low    | Credit card is sufficient
 | Clients needed for full income    | 100+   | based on 5k USD (pre-Tax)
 
