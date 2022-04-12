@@ -15,7 +15,7 @@ A curated list of awesome monetization approaches for open-source software
 * [Advertisements on Website(s)](./approaches/advertisements.md)
 
 ## Paid Work
-* [Paid Quality / "Tidelift"](./approaches/paid-quality.md)
+* [Paid Quality Assurances](./approaches/paid-quality.md)
 * [Paid Version Development / Crowdfund New Versions](./approaches/paid-versions.md)
 * [Paid Feature Development](./approaches/paid-features.md)
   * [Auctioned Development](./approaches/TBD.md)
