@@ -35,4 +35,8 @@ Variants & Options:
 | Entry Threshold for client        | Low    | Credit card is sufficient
 | Clients needed for full income    | 100+   | based on 5k USD (pre-Tax)
 
+| Effort for marketing              | High   | 
+| Countervalue                      | Work   | 
+| Perfect for software type         | All    | 
+
 > NOTE: If external contributors develop features and maintainers accept the changes the bounties are paid to the contributors and not the the maintainers of the project. This might be hindering the monetization effort of the OSS project by the maintainers.

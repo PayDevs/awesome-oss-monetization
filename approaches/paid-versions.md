@@ -34,3 +34,6 @@ Variants & Options:
 | Entry Threshold for client        | Low    | Credit card is sufficient
 | Clients needed for full income    | 100+   | based on 5k USD (pre-Tax)
 
+| Effort for marketing              | High   | 
+| Countervalue                      | Work   | 
+| Perfect for software type         | Progs  | Harder for Libraries; Easier for Programs, Tools, Databases, etc.

@@ -1,9 +1,8 @@
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 > WARN: this is still work in progress!
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 # Awesome OSS Monetization
 A curated list of awesome monetization approaches for open-source software
-
 
 ## Unconditional Funding
 * [Private Donations](./approaches/private-donations.md)
@@ -11,15 +10,14 @@ A curated list of awesome monetization approaches for open-source software
 * [Funding Grants & Stipends](./approaches/grants-and-stipends.md)
 
 ## Paid Access
-* [Paid Early Access / Delayed Versions / Embargo Model](./approaches/early-access.md)
+* [Paid Early Access / Sponsorware / Embargo Model](./approaches/early-access.md)
 * [Paid Memberspace / Community](./approaches/memberspace.md)
-  * [Utilize Web Monetization API (on OSS homepage - e.g., for documentation, community, ...)](./approaches/web-monetization-api-homepage.md)
 * [Advertisements on Website(s)](./approaches/advertisements.md)
 
 ## Paid Work
 * [Paid Quality / "Tidelift"](./approaches/paid-quality.md)
 * [Paid Version Development / Crowdfund New Versions](./approaches/paid-versions.md)
-* [Paid Feature Development / Sponsorware](./approaches/paid-features.md)
+* [Paid Feature Development](./approaches/paid-features.md)
   * [Auctioned Development](./approaches/TBD.md)
 * [Paid Bugfixes / Bounties](./approaches/paid-bugfixes.md)
 * [Paid Consultations & Support](./approaches/paid-support.md)

@@ -15,8 +15,8 @@ Variants & Options:
 * Tiered Donation Levels: Offering of mentions (on Twitter, etc.), swag, chats, meetups, etc. for higher or recurring donations
 
 ## Platforms
-* [Github Sponsors](https://github.com/sponsors)
 * [Patreon](https://www.patreon.com/)
+* [Github Sponsors](https://github.com/sponsors)
 * [Stripe](https://www.stripe.com/) (self-build)
 * [PayPal](https://www.paypal.com/) (self-build)
 
@@ -34,3 +34,7 @@ Variants & Options:
 | Income Stability / Predictability | Low    | Constant reminders to donate necessary; Sponsors can come and go on a whim
 | Entry Threshold for client        | Low    | Credit card is sufficient
 | Clients needed for full income    | 1000+  | based on 5k USD (pre-Tax)
+
+| Effort for marketing              | High   | 
+| Countervalue                      | None   | 
+| Perfect for software type         | All    | 
