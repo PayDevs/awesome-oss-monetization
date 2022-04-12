@@ -6,7 +6,7 @@ AKA: Paid Support
 Payments by companies to check security issues in OSS, specific SLAs, or ensure quick fixes for business-threatening problems in the OSS. Sometimes hidden behind a third-party company that quasi-employs the maintainer and pays them money.
 
 Requires:
-* Application to be part of the paid maintainers 
+* Application to be "employed" by middleman or setup of contracts with SLAs
 * Time to work on problems asap (as defined in SLAs)
 
 Variants & Options:
