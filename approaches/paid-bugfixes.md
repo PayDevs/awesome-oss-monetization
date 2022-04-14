@@ -3,7 +3,7 @@
 # Monetization via Paid Bugfixes
 AKA: Bug Bounties
 
-Payment offers made by companies or other entities to fix bugs critical to their use-case or security-related.
+Payment offers made by companies or other entities to fix bugs critical to their business model or security concerns.
 Often these are one-time payment offers for one bug, but projects often have more of them and if they pay for one bugfix they might pay for other bugfixes as well.
 
 Requires:
@@ -19,7 +19,7 @@ Variants & Options:
 * [The Bounties Network](https://bounties.network/)
 * [IssueHunt (BugBounty)](https://bounty.issuehunt.io/)
 * [BountySource](https://bountysource.com/)
-* [GitCoin](https://gitcoin.co/)
+* [GitCoin Bug Bounties](https://gitcoin.co/explorer/)
 * [HackerOne: List of Bounty Programs](https://hackerone.com/bug-bounty-programs)
 
 ## Evaluation

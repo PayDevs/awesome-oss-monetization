@@ -2,7 +2,15 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 # Awesome OSS Monetization
-A curated list of awesome monetization approaches for open-source software
+A curated list of awesome monetization approaches for open-source software (with a slight bias towards open-source libraries (such as react.js, core-js, etc.) and not open-source programs (such as OpenOffice, MariaDB, etc.)).
+
+TODO: overview / TOC with categories "Monetization approaches", "Monetization Risks/Dangers/Problems", "Reasons for & Opportunities of Monetization" (Burnout, etc.), "OSS Definition & Delimitation", "Other Motivations for OSS" (Learning, ...)
+TODO: describe characteristics
+TODO: add "Additional Work" (Low-High) as characteristic
+TODO: add "Need for Legal Entity" (Low-High) as characteristic
+TODO: add "Cost of Services" / "Upfront Cost" / "Continuous Cost" as characteristics? (e.g., certification hosting costs money)
+TODO: Compedition: (M: only other maintainers, C: only M+Contributors, O: other Developers or Content creators)
+TODO: mention CLA: May require a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
 
 ## Unconditional Funding
 * [Private Donations](./approaches/private-donations.md)
@@ -15,12 +23,11 @@ A curated list of awesome monetization approaches for open-source software
 * [Advertisements on Website(s)](./approaches/advertisements.md)
 
 ## Paid Work
-* [Paid Quality Assurances](./approaches/paid-quality.md)
-* [Paid Version Development / Crowdfund New Versions](./approaches/paid-versions.md)
-* [Paid Feature Development](./approaches/paid-features.md)
-  * [Auctioned Development](./approaches/TBD.md)
+* [Paid Support](./approaches/paid-support.md)
 * [Paid Bugfixes / Bounties](./approaches/paid-bugfixes.md)
-* [Paid Consultations & Support](./approaches/paid-support.md)
+* [Paid Feature Development](./approaches/paid-features.md)
+* [Paid Version Development / Crowdfunding](./approaches/paid-versions.md)
+* [Paid Consultations](./approaches/paid-consultations.md)
 * [Paid Training & Certifications](./approaches/paid-certifications.md)
 
 ## Paid Content
@@ -30,20 +37,18 @@ A curated list of awesome monetization approaches for open-source software
 * [Paid Newsletter](./approaches/paid-newsletter.md)
 
 ## Paid Licences
-* [Paid commercial use / Dual-Licensing](./approaches/dual-licensing.md)
+* [Paid Commercial Use / Dual-Licensing](./approaches/dual-licensing.md)
 * [Paid Premium Version / Open Core](./approaches/open-core.md)
 
 ## Paid Services
 * [Paid Hosting / Open SaaS](./approaches/paid-hosting.md)
 
-## Pay by use / Involuntary (but disclosed) Funding
-* [Pay with compute power / Paid usage](./approaches/paid-usage.md)
-* _Pay by hoster / Cloud (Open Source Kickback)_(https://railway.app/open-source-kickback) ![](https://badgen.net/badge/icon/Hoster-specific?scale=0.75&label "Hoster-specific")
-* _Pay for speed_ (System throttles performance - but can be unlocked with crypto tokens) ![](https://badgen.net/badge/icon/Crypto-based?scale=0.75&label "Crypto-based")
-* _Pay for features_ (System disables (premium) features - but can be unlocked with crypto tokens) ![](https://badgen.net/badge/icon/Crypto-based?scale=0.75&label "Crypto-based")
-* [Integrate payable API calls (e.g., download data, code, auth, … e.g., via RapidAPI)](./approaches/paid-api-integration.md) ![](https://badgen.net/badge/icon/Crypto-based?scale=0.75&label "Crypto-based")
-* _Pay with usage data (TBD)_
-* _Pay with VPN services_
+## Pay by use
+* [Paid Usage](./approaches/paid-usage.md)
+* [Kickback from Hoster](./approaches/kickback.md)
+* [Paid Unlocking](./approaches/paid-unlocking.md)
+* [Sell Telemetry](./approaches/telemetry.md)
+
 
 ## Special Monetization Approaches
 * [Raise Venture Capital](./approaches/raise-venture-capital.md) ![](https://badgen.net/badge/icon/Incorporation-based?scale=0.75&label "Incorporation-based")

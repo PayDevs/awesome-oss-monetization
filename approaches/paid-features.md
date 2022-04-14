@@ -2,7 +2,7 @@
 
 # Monetization via Paid Features
 
-Payment offers made by companies or individuals to develop new features, functionalities, interfaces, etc. important to their use-case.
+Payment offers made by companies or individuals to develop new features, functionalities, interfaces, etc. important to their business-case.
 Often these are one-time payment offers for one feature, but hundred of users have thousands of feature requests.
 
 Requires:
@@ -18,7 +18,7 @@ Variants & Options:
 * [IssueHunt](https://issuehunt.io/)
 * [The Bounties Network](https://bounties.network/)
 * [BountySource](https://bountysource.com/)
-* [GitCoin](https://gitcoin.co/)
+* [GitCoin Issue Bounties](https://gitcoin.co/explorer/)
 
 ## Evaluation
 
