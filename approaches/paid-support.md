@@ -17,7 +17,7 @@ Variants & Options:
 ## Platforms
 * [Tidelift](https://tidelift.com/) (Middleman concept)
 * [tea.xyz](https://techcrunch.com/2022/03/23/open-source-project-tea-is-brew2-for-web3/)
-(maybe: "guarantee security and reliability to users of open source software projects")
+("guarantee security and reliability to users of open source software projects")
 
 ## Evaluation
 
@@ -37,3 +37,9 @@ Variants & Options:
 | Effort for marketing              | Low    | Middleman will do marketing; Direct contracts might need more
 | Countervalue                      | Work   | Middleman will probably pay quasi-salary or by the hour; Direct contracts can enable selling the service multiple times
 | Perfect for software type         | All    | Esp. essential software that is essential to the business-model of companies
+
+| Additional Work                   | High   | Extra work to fix bugs, develop feature, etc. - might be covered by "standby" time
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | 
+| Recipient                         | I      | 
+| Competitors                       | None   | Other maintainers might be integrated

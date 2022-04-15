@@ -16,6 +16,7 @@ Variants & Options:
 
 ## Platforms
 * [Patreon](https://www.patreon.com/)
+* [Flattr](https://flattr.com/)
 * [Github Sponsors](https://github.com/sponsors)
 * [Stripe](https://www.stripe.com/) (self-build)
 * [PayPal](https://www.paypal.com/) (self-build)
@@ -38,3 +39,9 @@ Variants & Options:
 | Effort for marketing              | High   | 
 | Countervalue                      | None   | 
 | Perfect for software type         | All    | 
+
+| Additional Work                   | None   | 
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | 
+| Recipient                         | I + C  | 
+| Competitors                       | None   | 

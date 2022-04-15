@@ -41,4 +41,10 @@ Variants & Options:
 | Countervalue                      | Work   | 
 | Perfect for software type         | All    | Better for fast changing software
 
+| Additional Work                   | Medium | Extra time to consult necessary
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | 
+| Recipient                         | I      | 
+| Competitors                       | O      | 
+
 > NOTE: Potentially, the consultations can also be done by non-maintainers (i.e., just an expert), which could increase the competition.

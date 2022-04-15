@@ -37,3 +37,9 @@ Variants & Options:
 | Effort for marketing              | Medium | Companies often seek out OSS on their own (essential to their products)
 | Countervalue                      | Work   | Can range from unrestricted use of money to development of specific features 
 | Perfect for software type         | All    | 
+
+| Additional Work                   | Low    | Might require documentation, PR work, etc.
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | 
+| Recipient                         | C      | 
+| Competitors                       | None   | 

@@ -36,3 +36,8 @@ Variants & Options:
 | Countervalue                      | Work   | 
 | Perfect for software type         | All    | 
 
+| Additional Work                   | Medium | Might vary between 0 and 80% - depends other work for the company.
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | 
+| Recipient                         | I      | 
+| Competitors                       | M      | Another maintainer might be a competior for a (remote) job

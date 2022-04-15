@@ -37,4 +37,10 @@ Variants & Options:
 | Countervalue                      | SW     | Customer buys additional features
 | Perfect for software type         | Special| Best for libraries or programs companies build tools upon
 
+| Additional Work                   | High   | Extra work to develop and maintain premium features
+| Upfront Cost                      | Medium | Will require a lawyer to setup the license and contracts
+| Continuous Cost                   | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)
+| Recipient                         | C      | 
+| Competitors                       | None   | Premium feature would have a proprietary license
+
 > NOTE: External contributors / companies might develop similar premium features and become competition.

@@ -38,4 +38,10 @@ Variants & Options:
 | Countervalue                      | Rights | Right to the OSS or a part thereof
 | Perfect for software type         | All    | 
 
+| Additional Work                   | Low    | Maybe extra work to transfer knowledge to buyer
+| Upfront Cost                      | Low    | Might get higher if bullet-proof contracts are needed
+| Continuous Cost                   | None   | 
+| Recipient                         | I or C | 
+| Competitors                       | None   | No other party could sell the project - but forking might be a problem
+
 > NOTE: Due to the nature of open-source a company could fork and build it's own version without paying the old maintainers. While the license for the old code would stay, the changes and extentions made by the company would become closed-source.

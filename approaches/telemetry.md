@@ -35,3 +35,9 @@ Variants & Options:
 | Effort for marketing              | None   | Will make waves but no "sale" is necessary
 | Countervalue                      | OSS    | User pays for using the OSS
 | Perfect for software type         | Special| Best for stand-alone systems with third-party users (e.g., blogs, LMS, etc.)
+
+| Additional Work                   | Low    | Extra work to initially integrate telemetry system
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | Low    | Platform used to collect telemetry data might cost a little (or take a share of the income)
+| Recipient                         | C      | 
+| Competitors                       | None   | 

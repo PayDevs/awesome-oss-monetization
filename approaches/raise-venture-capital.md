@@ -40,3 +40,9 @@ Variants & Options:
 | Effort for marketing              | Medium | Finding VCs & pitching is work but VCs are interested in investing
 | Countervalue                      | Shares | 
 | Perfect for software type         | Special| Often stand-alone software with (potentially) many users (e.g., tools, databases, OS, LMS, etc.)
+
+| Additional Work                   | High   | Will require to build a pitch deck, business plan, website, etc.
+| Upfront Cost                      | Low    | Might require small investment in domain name, trademark, etc.
+| Continuous Cost                   | None   | After seed-round the invested money can be used from the startup
+| Recipient                         | C      | The Startup will get the investment but founders (probably maintainers) get a salary
+| Competitors                       | None   | If another group of maintainers would want to start a competing startup no VC would invest

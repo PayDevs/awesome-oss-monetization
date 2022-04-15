@@ -40,4 +40,10 @@ Variants & Options:
 | Countervalue                      | Hosting| 
 | Perfect for software type         | Special| Best for larger software, databases, etc.
 
+| Additional Work                   | Medium | Extra work to develop the SaaS around the OSS
+| Upfront Cost                      | Medium | Will require a lawyer to setup the license and contracts
+| Continuous Cost                   | Medium | Will cause costs for resources, legal, and tax related stuff (but should be covered by income)
+| Recipient                         | C      | 
+| Competitors                       | O      | Other companies might host the OSS as well
+
 > NOTE: External companies might offer similar hosting solutions and become competition.

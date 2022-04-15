@@ -38,3 +38,9 @@ Variants & Options:
 | Effort for marketing              | Medium | Similar to donations but access might get users to talk about the new stuff
 | Countervalue                      | Access | Will cause additional work to communicate with community
 | Perfect for software type         | All    | 
+
+| Additional Work                   | Medium | Will require time to interact with members
+| Upfront Cost                      | Low    | Might require a little money for community platform or website 
+| Continuous Cost                   | Low    | Might require a little money for community platform or website hosting
+| Recipient                         | C      | 
+| Competitors                       | None   | 

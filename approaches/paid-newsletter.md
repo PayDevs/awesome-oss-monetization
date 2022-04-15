@@ -38,4 +38,10 @@ Variants & Options:
 | Countervalue                      | Work   | Creation or producing the content
 | Perfect for software type         | Big SW | Better for big projects that change often or have a big ecosystem
 
+| Additional Work                   | Medium | Extra time to create and update newsletter
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | Hosting services often take a share of income
+| Recipient                         | I/C    | Depends on who contributes to the newsletter
+| Competitors                       | O?     | Everybody can create a online course to the OSS
+
 > NOTE: Potentially, "unofficial" newsletter can also be issued by non-maintainers (i.e., just expert), which could increase the competition. However, if internals are communicated (e.g., next roadmap steps) this might not be a problem.

@@ -35,3 +35,9 @@ Variants & Options:
 | Effort for marketing              | Low    | No marketing to get ads - maybe to enlarge community or site usage. 
 | Countervalue                      | None   | 
 | Perfect for software type         | Tools  | Esp. for OSS with visible content Apps, Programs, or Websites (e.g., docu)
+
+| Additional Work                   | None   | Maybe little extra work to manage ads
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | 
+| Recipient                         | I or C | 
+| Competitors                       | None   | At least no competition of ads for the project's homepage, etc.

@@ -37,4 +37,10 @@ Variants & Options:
 | Countervalue                      | None   | Legal commercial use
 | Perfect for software type         | Special| Best for libraries or programs companies build tools upon
 
+| Additional Work                   | Medium | Will cause communication and SLA related work
+| Upfront Cost                      | Medium | Will require a lawyer to setup the license and contracts
+| Continuous Cost                   | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)
+| Recipient                         | C      | 
+| Competitors                       | O      | Depends on the original OSS licence: other companies could fork and develop it further with a proprietary license.
+
 > NOTE: A CLA (Contributor License Agreement) may be required to accept code contributions from third parties to the source code while retaining the ability to dual-license those contributions under the proprietary license.

@@ -33,3 +33,9 @@ Variants & Options:
 | Effort for marketing              | None   | Will make waves but no "sale" is necessary
 | Countervalue                      | OSS    | User pays for downloading & using the OSS
 | Perfect for software type         | Special| Best for tools and libraries
+
+| Additional Work                   | None   | Maybe little extra work to deploy to blockchain registry
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | 
+| Recipient                         | I or C | 
+| Competitors                       | None   | 

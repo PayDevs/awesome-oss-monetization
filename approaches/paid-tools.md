@@ -37,4 +37,10 @@ Variants & Options:
 | Countervalue                      | Work   | Additional develoment effort necessary, but multiple sales possible
 | Perfect for software type         | Special| Mostly Frameworks that have use for editors or products with an extension mechanism
 
+| Additional Work                   | High   | Extra work to develop and maintain tools, etc.
+| Upfront Cost                      | Medium | Will require a lawyer to setup the license and contracts
+| Continuous Cost                   | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)
+| Recipient                         | C      | Might be only a sub-group who develop the tools, etc.
+| Competitors                       | None   | Tools would have a proprietary license
+
 > NOTE: If external developers create a similar tool or extension this could increase the competition

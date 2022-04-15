@@ -38,3 +38,9 @@ Variants & Options:
 | Effort for marketing              | N/A    | Funds often have application phases 
 | Countervalue                      | Work   | Can range from unrestricted use of money to development of specific features 
 | Perfect for software type         | All    | Easier for high impact / visibile projects that can be explained to the public
+
+| Additional Work                   | Low    | Might require documentation, PR work, etc.
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | 
+| Recipient                         | I + C  | Often specific for a person but can go to a legal entity
+| Competitors                       | M      | Another maintainer might be a competior for a person-specific grant

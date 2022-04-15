@@ -42,4 +42,10 @@ Variants & Options:
 | Countervalue                      | Work   | 
 | Perfect for software type         | Big SW | Better for big, complex and widely-used software
 
-> NOTE: Potentially, "unofficial" certificate can also be issued by non-maintainers (i.e., just expert), which could increase the competition.
+| Additional Work                   | Medium | Extra work to conduct certifications and/or trainings
+| Upfront Cost                      | Low    | Maybe cost for a designer to design certificates
+| Continuous Cost                   | Low    | Hosting of certificates might cost
+| Recipient                         | I/C    | Certificate recipients probably want a certificate from an organization - not an individual. Payments might go to an individual certifier
+| Competitors                       | M      | Other maintainers might be competitors to certify. 
+
+> NOTE: Potentially, "unofficial" certificate can also be issued by non-maintainers (i.e., just expert), which could increase the competition (or income by "licencing" the right to certify).

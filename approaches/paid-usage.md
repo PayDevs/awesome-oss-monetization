@@ -1,7 +1,7 @@
 > WARN: this is still work in progress!
 
 # Monetization via Paid Usage
-AKA: Pay with compute resources
+AKA: Pay with Resources
 
 Unconcious contributions made by a user to the OSS project, e.g., by integrating a crypto-miner, data storage, or other value-generating code that takes a portion of the resources and reuses it (e.g., a database that uses 10% processing power of the node it runs on). Should be clearly communicated to the users to clarify that this is not malicious code from a contributor. Might have legal implications if the value generation is problematic/illegal in a country. Often leads to recurring payments.
 
@@ -38,3 +38,9 @@ Variants & Options:
 | Effort for marketing              | None   | Will make waves but no "sale" is necessary
 | Countervalue                      | OSS    | User pays for using the OSS
 | Perfect for software type         | Special| Best for stand-alone systems on one server (e.g., databases, blogs, LMS, etc.)
+
+| Additional Work                   | Low    | Extra work to initially integrate value-generating subsystem
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | None   | 
+| Recipient                         | C      | 
+| Competitors                       | None   | 

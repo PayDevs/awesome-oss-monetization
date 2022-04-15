@@ -41,4 +41,10 @@ Variants & Options:
 | Countervalue                      | Perf.  | User pays for performance or unlocked features
 | Perfect for software type         | Special| Best for stand-alone systems on one server (e.g., databases, blogs, LMS, etc.)
 
+| Additional Work                   | Low    | Extra work to initially develop unlocking system
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | Low    | Platform used for unlocking might cost a little (or a share of the income)
+| Recipient                         | C      | 
+| Competitors                       | None   | 
+
 > NOTE: Due to the nature of open-source a user can fork and remove the unlock check. But he had to do it every time and the maintainers could forbid it in a special License.

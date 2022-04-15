@@ -37,4 +37,10 @@ Variants & Options:
 | Countervalue                      | 1xWork | Creation and update of book is time-consuming
 | Perfect for software type         | Big SW | Better for big, complex and widely-used software
 
+| Additional Work                   | None   | Maybe if logo or content is updated
+| Upfront Cost                      | Low    | Low cost from Logo design, etc.
+| Continuous Cost                   | None   | 
+| Recipient                         | C      | 
+| Competitors                       | None   | Logo or designs are probably copyrighted/trademarked by one maintainer or collective
+
 > NOTE: Potentially, "unofficial" books can also be issued by non-maintainers (i.e., just expert), which could increase the competition. However, if the logo etc. is a registered trademark, merchandise from competitors might not be a problem.

@@ -37,3 +37,9 @@ Variants & Options:
 | Effort for marketing              | High   | 
 | Countervalue                      | Work   | 
 | Perfect for software type         | Progs  | Harder for Libraries; Easier for Programs, Tools, Databases, etc.
+
+| Additional Work                   | Low    | New version is probably already on the roadmap
+| Upfront Cost                      | Low    | Maybe some costs for making a great video / demo of the future version
+| Continuous Cost                   | None   | No cost after if funding goal is reached. But process is repeatable with next version
+| Recipient                         | C      | Might be only a sub-group who develop the tools, etc.
+| Competitors                       | None   | 

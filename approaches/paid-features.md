@@ -39,4 +39,10 @@ Variants & Options:
 | Countervalue                      | Work   | 
 | Perfect for software type         | All    | 
 
+| Additional Work                   | Medium | Extra work to develop feature
+| Upfront Cost                      | None   | Platforms are often free or only take a small cut
+| Continuous Cost                   | None    | Platforms are often free or only take a small cut
+| Recipient                         | I      | 
+| Competitors                       | O      | Might be constrained to maintainers (i.e., rejecting pull requests from external contributors / developers)
+
 > NOTE: If external contributors develop features and maintainers accept the changes the bounties are paid to the contributors and not the the maintainers of the project. This might be hindering the monetization effort of the OSS project by the maintainers.

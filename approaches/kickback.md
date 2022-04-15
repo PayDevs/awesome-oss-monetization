@@ -35,3 +35,9 @@ Variants & Options:
 | Effort for marketing              | Low    | It might help to nudge users towards the hoster
 | Countervalue                      | Aware. | Users get nothing but hosters get awareness
 | Perfect for software type         | Special| Best for stand-alone systems on one server (e.g., databases, blogs, LMS, etc.)
+
+| Additional Work                   | None   | 
+| Upfront Cost                      | None   | 
+| Continuous Cost                   | Low    | Maybe a little work to use or exchange the credits
+| Recipient                         | C      | 
+| Competitors                       | None   | 

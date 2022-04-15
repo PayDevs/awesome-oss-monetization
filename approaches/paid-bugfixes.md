@@ -41,4 +41,10 @@ Variants & Options:
 | Countervalue                      | Work   | 
 | Perfect for software type         | All    | 
 
+| Additional Work                   | Medium | Extra work to fix (hard) bugs
+| Upfront Cost                      | None   | Bug Bounty software is often free or only take a small cut
+| Continuous Cost                   | None    | Bug Bounty software is often free or only take a small cut
+| Recipient                         | I      | 
+| Competitors                       | O      | Might be constrained to maintainers (i.e., rejecting bug fixes from external contributors / developers)
+
 > NOTE: If external contributors fix bugs and maintainers accept the changes the bounties are paid to the contributors and not the the maintainers of the project. This might be hindering the monetization effort of the OSS project by the maintainers.

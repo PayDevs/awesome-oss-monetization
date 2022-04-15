@@ -40,3 +40,9 @@ Variants & Options:
 | Effort for marketing              | Medium | Similar to donations but early-access users might talk about the new stuff
 | Countervalue                      | Access | Might cause minimal additional work to handle multiple repositories
 | Perfect for software type         | All    | Esp. for OSS that gives payer an edge (test security, write news, host service, ...)
+
+| Additional Work                   | Low    | Might require to manage public and private repos/content
+| Upfront Cost                      | Low    | Might require a little money for hosting private repos/content 
+| Continuous Cost                   | Low    | Might require a little money for hosting private repos/content 
+| Recipient                         | C      | 
+| Competitors                       | None   | 
