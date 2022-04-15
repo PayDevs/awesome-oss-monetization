@@ -1,10 +1,9 @@
 > WARN: this is still work in progress!
+
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 # Awesome OSS Monetization
 A curated list of awesome monetization approaches for open source software (currently probably with a slight bias towards open source libraries (like react.js, core-js, etc.) rather than open source programs (like OpenOffice, MariaDB, etc.)).
-
-Please note that you can find an explanation of the used characteristics below at [Used Characteristics](#used-characteristics)
 
 __Table of Contents__
 - [Awesome OSS Monetization](#awesome-oss-monetization)
@@ -20,13 +19,16 @@ __Table of Contents__
   - [Used Characteristics](#used-characteristics)
   - [Notes / Monetization Risks](#notes--monetization-risks)
   - [Links to other Monetization Lists](#links-to-other-monetization-lists)
-- [Opportunities & Reasons for Monetization](#opportunities--reasons-for-monetization)
-  - [Reasons](#reasons)
-  - [Opportunities](#opportunities)
-- [OSS Definition & Delimitation](#oss-definition--delimitation)
-- [Other Motivations for OSS](#other-motivations-for-oss)
 
+This list is the result of extensive internet research, compiling all the monetization approaches we could find from various sources. Please note that the list, classification and terminology represents a subjective opinion on the subject.
+
+Feel free to commit corrections, additions, or further examples.
+
+---
 ## Monetization Approaches
+
+In the following sections you can find the categorized list of monetization approaches for open-source software.
+An explanation of the [Used Characteristics](#used-characteristics) with metrics can be found below.
 
 ### Unconditional Funding
 * [Private Donations](./approaches/private-donations.md)
@@ -48,6 +50,7 @@ __Table of Contents__
 
 ### Paid Content
 * [Paid Online Courses](./approaches/paid-courses.md)
+* [Paid Version Names](./approaches/paid-version-names.md)
 * [Paid Merchandise or Books](./approaches/paid-merchandise.md)
 * [Paid Extensions / Plugins / Tools](./approaches/paid-tools.md)
 * [Paid Newsletter](./approaches/paid-newsletter.md)
@@ -70,48 +73,39 @@ __Table of Contents__
 * [Employment](./approaches/employement.md)
 * [Raise Venture Capital](./approaches/raise-venture-capital.md)
 * [Sell Project](./approaches/acquisition.md)
-* TBD: _Widget Frosting (selling hardware on-top of OSS)_
+* [Widget Frosting](./approaches/widget-frosting.md)
 
 ## Used Characteristics
-In order to evaluate and explain the monetization approaches, several characteristics were used. 
-* Effort to set-up: The amount of work required to start the monetization approach. [None; Low; Medium; High; N/A] or [None, Days, Weeks, Months, N/A]?
-* Effort to maintain income: The amount of work needed to keep the monetization going. 
-* Visibility: The ease with which a user of the OSS notices the monetization approach. 
-* Necessity to pay: The need for the user of an OSS to accept and pay. 
-* Scalability: The ease and number of users or companies that can be reached to pay. 
-* One-time Income: The level of one single contribution. 
-* Recurring Income: The level of monthly contribution that can be expected. 
-* Entry Threshold for client: The amount of effort necessary to contribute money. 
-* Clients needed for full income: The amount of payers necessary to get to 5k USD (pre-Tax) per month. 
+In order to compare, evaluate, and explain the monetization approaches, several characteristics were used: 
+* __Effort to set-up__: The amount of work required to start the monetization approach. [None; Low; Medium; High; N/A]
+* __Effort to maintain income__: The amount of work needed to keep the monetization going. 
+* __Visibility__: The ease with which a user of the OSS notices the monetization approach. 
+* __Necessity to pay__: The need for the user of an OSS to accept and pay. 
+* __Scalability__: The ease and number of users or companies that can be reached to pay. 
+* __One-time Income__: The level of one single contribution. 
+* __Recurring Income__: The level of monthly contribution that can be expected. 
+* __Entry Threshold for client__: The amount of effort necessary to contribute money. 
+* __Clients needed for full income__: The amount of payers necessary to get to 5k USD (pre-Tax) per month. 
 
-* Effort for marketing: The amount of work necessary to make the monetization opportunity known to the public. 
-* Countervalue: The value a contributor of money gets if he pays. 
-* Perfect for software type: The types of OSS that would benefit the most from this onetization approach. 
+* __Effort for marketing__: The amount of work necessary to make the monetization opportunity known to the public. 
+* __Countervalue__: The value a contributor of money gets if he pays. 
+* __Perfect for software type__: The types of OSS that would benefit the most from this onetization approach. 
 
-* Additional Work: The amount of (continuous) work required in addition to working on the OSS. 
-* Upfront Cost: The monetary cost to setup the monetization approach (e.g., for external services) - excluding cost for private bank accounts, tax advisors, etc. 
-* Continuous Cost: The monetary cost to maintain the monetization approach over time (e.g., for hosting certificates)
-* Recipient: The entity receiving the monetization result - and who might distribute it further (I: Individual, C: Collective/Company)
-* Competitors: The kind of competitors for this monetization approach (M: Other maintainers, C: Contributors, O: Other Developers, Companies, or Content creators)
+* __Additional Work__: The amount of (continuous) work required in addition to working on the OSS. 
+* __Upfront Cost__: The monetary cost to setup the monetization approach (e.g., for external services) - excluding cost for private bank accounts, tax advisors, etc. 
+* __Continuous Cost__: The monetary cost to maintain the monetization approach over time (e.g., for the hosting of certificates)
+* __Recipient__: The entity receiving the monetization result - and who might distribute it further (I: Individual, C: Collective/Company)
+* __Competitors__: The kind of competitors for this monetization approach (M: Other maintainers, C: Contributors, O: Other Developers, Companies, or Content creators)
 
 ## Notes / Monetization Risks
-* Need for Legal Entity: depends heavily on the country / jurisdiction you live in (or pay taxes in if you are a Digital Native). As an individual it would be good to be registered as a Freelancer, to tax the income - but in some countries the normal income tax declaration might be sufficient (Please ask a tax advisor in your country).
-
-... Dangers, Problems
-* Not having a License
-* Not having a concensus in the maintainer or contributor group
-* Overlooking Contributor's Copyright / missing CLA: May require a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
-* Unfair distribution / unbalanced distribution
-* Not paying taxes (as a project or individual)
-> TBD
-
-If funds are being raised for a __project__ (multiple maintainers or contributors - not a single individual), the following might also be required regardless of monetization approach:
-* An extra bank account or fiscal host to collect the funding and distribute it from there
-* A distribution or usage model for the money (i.e., who (maintainers, contributors, etc.) or what (bug bounties, conferences, etc.) gets how much of the money?). Distribution might be implemented, e.g., objectively by number of features, bugfixes, LOC, etc. or subjectively determined by the maintainer(s) or by voting.
-* The project may need to be incorporated and pay itself taxes (some legal forms may be tax-exempt, such as a non-profit entity (USA) or a registered association (Germany)).
-
-If funds are being raised for an __individual__ or distrituted from a fiscal host to an individual, the following might also be required regardless of monetization approach:
-* The individual might need to pay taxes for the funding in their country
+If you want to monetize your open-source project several factors have to be considered:
+* __Not having a License__: If the current version your project has no declared license, it's legal status in undefined and you should clarify it (esp. with other maintainers or contributors)
+* __Not having a CLA__: If you're project does not have a CLA (Contributor License Agreement) the contributors still hold the full rights to their contributed source code and could sue against a monetization. If you want to monetize you should get them to sign a CLA, relicense their contributions, or remove their code (if possible).
+* __Not having a concensus about monetization itself__ in the collective of all contributors can become a problem. If you want to monetize you should ask all contributors about if and how you want to monetize. A contract clarifying the willingness to monetize might be a good idea (Please ask a lawyer for help).
+* __Not having a concensus about distribution of income__ in the collective can become a reason for dispute. If you want to monetize you should vote on how you want to distribute the income. The recipients of the money can be contributors but also bug bounties, conferences, or non-profits. A contract defining the distribution might be a good idea (Please ask a lawyer for help).
+* __Receiving money as a private person__: might be a bad idea - esp. if it is meant for the project. The money would have to be taxed twice - first by the individual and then by the final recipient. Furthermore, the taxation depends on the country / jurisdiction the recipients live in (or pay taxes in if they are Digital Natives). If you collect money for the project it might be a good idea to use a fiscal host. As an individual it would be good to be registered as a Freelancer, to tax the income - but in some countries the normal income tax declaration might be sufficient (Please ask a tax advisor in your country).
+* __Not paying taxes__ (as a project or individual) is always a bad idea. Even if you get only a dollar as a donation you should clarify how you have to declare the income and pay taxes (Please ask a tax advisor in your country).
+* __Using a private bank account__ for collecting funds for your project is not a good idea. An extra bank account or fiscal host for the project to collect the funding and distribute it from there will help in being transparent.
 
 ## Links to other Monetization Lists
 [1] https://en.wikipedia.org/wiki/Business_models_for_open-source_software
@@ -120,35 +114,4 @@ If funds are being raised for an __individual__ or distrituted from a fiscal hos
 
 [3] https://www.oss.fund
 
-# Opportunities & Reasons for Monetization
-## Reasons
-Trademark infringements:
-(March 2016): Azer Koçulu unpublished over 250 modules (esp. left-pad) from npm due to trademark infringement over the name "kik".
 
-Faulty updates
-(April 2020) Updated is-promised library didn't adhere to the proper ES module standards causing wide-spread build errors. 
-
-Package Ownership
-(Aug. 2021) The ownership of the package bebop was auto-transferred due to a corrupt contact address of the former owner
-
-Corporate Disputes
-(Aug. 2021): Elasticsearch change its widely used JS library to not work with AWS Elasticsearch and OpenSearch anymore.
-
-Security Problems
-(Dec 2021): log4j enabled a feature from 2013 by default that allowed loading of malicious code.
-
-Developer Burnout / Infocide
-(Jan. 2022): Marak deletes his projects Colors.js and Faker.js after getting pushed / bullied by corporates.
-
-* Independent / Digital Native Lifestyle
-* Slowly build-up of a Startup
-## Opportunities
-
-> TBD
-
-# OSS Definition & Delimitation
-> TBD
-
-# Other Motivations for OSS
-* (Learning, ...)
-> TBD
