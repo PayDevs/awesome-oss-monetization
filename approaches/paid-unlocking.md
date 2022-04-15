@@ -13,10 +13,11 @@ Requires:
 Variants & Options:
 * API based: User pays by calling a paid API
 * Crypto based: User pays by transfering a crypto token to the maintainers wallet
+* ICO: Initial Coin/Token Offering with (discounted) sale (e.g., upfront payment for infrastructure development)
 * Daily Checks: Check to unlock is done once per day
 * Boot Checks: Check to unlock is done once per start
 * Node Checks: Check to unlock is done once per day and node
-
+ 
 ## Platforms
 * [RapidAPI](https://rapidapi.com/) (Unlocking by hitting the paid API)
 * [Web Monetization API](https://webmonetization.org/) (Unlocking by paying with connected crypto wallet)
@@ -30,9 +31,9 @@ Variants & Options:
 | Visibility                        | Low    | Low performance / functionality might be OK for user
 | Necessity to pay                  | Low    | Might be OK for user but can be made uncomfortable
 | Scalability                       | Medium | Scales with the number of users (who need the performance)
-| One-time Income                   | N/A    | Value-generating subsystem probably causes recurring revenue
+| One-time Income                   | High   | ICO might bring a bigger initial income
 | Recurring Income                  | Medium | Depends on the value created and number of running instances
-| Income Stability / Predictability | Medium | If users accept paying it should be stable; Crypto might be very volatile
+| Income Stability / Predictability | Medium | If users accept paying it should become stable; Crypto might be very volatile
 | Entry Threshold for client        | Medium | Paying for API access might be easy but paying in crypto might be more complex
 | Clients needed for full income    | 500+   | Price can be set by maintainers
 
