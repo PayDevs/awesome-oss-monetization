@@ -50,7 +50,7 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 
 ### Paid Content
 * [Paid Online Courses](./approaches/paid-courses.md)
-* [Paid Version Names](./approaches/paid-version-names.md)
+* [Paid Naming Rights](./approaches/paid-version-names.md)
 * [Paid Merchandise or Books](./approaches/paid-merchandise.md)
 * [Paid Extensions / Plugins / Tools](./approaches/paid-tools.md)
 * [Paid Newsletter](./approaches/paid-newsletter.md)
@@ -61,6 +61,7 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 
 ### Paid Services
 * [Paid Hosting / Open SaaS](./approaches/paid-hosting.md)
+* [Widget Frosting](./approaches/widget-frosting.md)
 
 ### Paid for Use
 * [Paid Usage](./approaches/paid-usage.md)
@@ -73,7 +74,6 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * [Employment](./approaches/employement.md)
 * [Raise Venture Capital](./approaches/raise-venture-capital.md)
 * [Sell Project](./approaches/acquisition.md)
-* [Widget Frosting](./approaches/widget-frosting.md)
 
 ## Used Characteristics
 In order to compare, evaluate, and explain the monetization approaches, several characteristics were used: 
