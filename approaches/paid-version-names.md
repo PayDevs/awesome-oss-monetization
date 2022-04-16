@@ -1,7 +1,7 @@
 > WARN: this is still work in progress!
 
-# Monetization via Paid Version Names
-AKA: Symbolic Ownership
+# Monetization via Paid Naming Rights
+AKA: Paid Version Names, Symbolic Ownership
 
 Payments to get the rights of naming a version of the open source project (similar to "Android 8 Oreo" or "Ubuntu 18 Bionic Beaver"). Often one-time payments without many recurring options.
 
@@ -14,7 +14,7 @@ Variants & Options:
 * NFT: selling every commit with higher prices for minor and major versions.
 
 ## Platforms
-* Auction platform such as eBay
+* Auction platforms such as eBay
 * [GitNFT](https://gitnft.quine.sh/) (Sell commits as NFTs)
 
 ## Evaluation
