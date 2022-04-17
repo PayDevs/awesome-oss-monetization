@@ -27,8 +27,8 @@ Variants & Options:
 | Effort to maintain income         | Medium | Premium data/content has to come from somewhere
 | Visibility                        | Low    | Easy to overlook by users except for ads
 | Necessity to pay                  | Medium | A free version has probably everything necessary. Premium content could be inserted but disabled/blured.
-| Scalability                       | High   | Scales with the number of end-users and conent streams
-| One-time Income                   | Medium | If conent is bought one-time (e.g., designs)
+| Scalability                       | High   | Scales with the number of end-users and content streams
+| One-time Income                   | Medium | If content is bought one-time (e.g., designs)
 | Recurring Income                  | Low    | Depends on value of premium streams (e.g., stock data)
 | Income Stability / Predictability | Medium | Client might go back to free
 | Entry Threshold for client        | Low    | Premium data could be offered and bought in-app 
