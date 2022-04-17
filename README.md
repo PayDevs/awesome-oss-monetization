@@ -3,7 +3,9 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 # Awesome OSS Monetization
-A curated list of awesome monetization approaches for open source software (currently probably with a slight bias towards open source libraries (like react.js, core-js, etc.) rather than open source programs (like OpenOffice, MariaDB, etc.)).
+A curated list of awesome monetization approaches for open source software. 
+Currently, probably with a slight bias towards open source libraries (like react.js, core-js, etc.) rather than open source programs (like OpenOffice, MariaDB, etc.). 
+Furthermore, the monetization approaches are meant for maintainers of the OSS - not external third-parties trying to make money with an OSS (e.g., by getting hired as an Consultant for an OSS). 
 
 __Table of Contents__
 - [Awesome OSS Monetization](#awesome-oss-monetization)
@@ -22,7 +24,7 @@ __Table of Contents__
 
 This list is the result of extensive internet research, compiling all the monetization approaches we could find from various sources. Please note that the list, classification and terminology represents a subjective opinion on the subject.
 
-Feel free to commit corrections, additions, or further examples.
+Feel free to commit corrections, additions, or further examples. The contribution guidelines are [here](./contributing.md)
 
 ---
 ## Monetization Approaches
@@ -62,6 +64,7 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 ### Paid Services
 * [Paid Hosting / Open SaaS](./approaches/paid-hosting.md)
 * [Widget Frosting](./approaches/widget-frosting.md)
+* [Paid Content](./approaches/paid-content.md)
 
 ### Paid for Use
 * [Paid Usage](./approaches/paid-usage.md)
@@ -74,6 +77,9 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * [Employment](./approaches/employement.md)
 * [Raise Venture Capital](./approaches/raise-venture-capital.md)
 * [Sell Project](./approaches/acquisition.md)
+* TBD: Sell Brand (use of trademark)
+* TBD: Re-licensing / White Label
+* TBD: Paid Binary / Selling without proprietary license (https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Selling_without_proprietary_license)
 
 ## Used Characteristics
 In order to compare, evaluate, and explain the monetization approaches, several characteristics were used: 
@@ -114,4 +120,7 @@ If you want to monetize your open-source project several factors have to be cons
 
 [3] https://www.oss.fund
 
+[4] [Charvat, Karel & Cerba, Otakar & Ježek, Jan & Fryml, Josef & Pospisil, Martin. (2009). Open Source Business Models and Strategies.](https://www.researchgate.net/publication/236023177_Open_Source_Business_Models_and_Strategies)
+
+[5] [Sayeed, L., Verma, S., & Bora, A. (2002). Open Source Software Licensing and Business Models. In Proceedings of the Seventh Asia-Pacific Decision Sciences Institute Conference.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.457.6814&rep=rep1&type=pdf)
 
