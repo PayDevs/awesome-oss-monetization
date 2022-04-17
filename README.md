@@ -55,7 +55,7 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 ### Paid Licences
 * [Paid Commercial Use / Dual-Licensing](./approaches/dual-licensing.md)
 * [Paid Premium Version / Open Core](./approaches/open-core.md)
-* TBD: License Brand (use of trademark) [License Brand](./approaches/license-brand.md) 
+* [Licensing the Brand](./approaches/license-brand.md) 
 * TBD: Re-licensing / White Label [Sell White Label](./approaches/white-label.md) 
 
 ### Paid Services
