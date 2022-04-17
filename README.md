@@ -85,6 +85,10 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * [Sell Project](./approaches/acquisition.md)
 * TBD: Paid Binary / Selling without proprietary license (https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Selling_without_proprietary_license) [Paid Binary](./approaches/paid-binary.md) 
 
+---
+----
+-----
+------
 ## Notes
 
 ### Used Characteristics
