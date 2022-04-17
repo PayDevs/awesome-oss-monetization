@@ -30,7 +30,7 @@ Variants & Options:
 | Necessity to pay                  | Low    | Voluntary; Low countervalue; Might work for curious / social people in the community
 | Scalability                       | Medium | Scales with the number of users (who want interact with community)
 | One-time Income                   | Low    | Few private sponsors will pay more than a few dollars
-| Recurring Income                  | Medium | Few sponsors will pay recurringly for access to maintainers
+| Recurring Income                  | Low    | Few sponsors will pay recurringly for access to maintainers
 | Income Stability / Predictability | Medium | If recurring payments work they will probably continue  
 | Entry Threshold for client        | Low    | Credit card is sufficient
 | Clients needed for full income    | 1000+  | based on 5k USD (pre-Tax)

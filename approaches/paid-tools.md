@@ -17,7 +17,7 @@ Variants & Options:
 * Premium Replacement: Selling a second (closed-source) tool far better than the OSS
 
 ## Platforms
-* [Apple's App Store](https://www.apple.com/app-store/) (Hosting Apps for MaosOS and iOS)
+* [Apple's App Store](https://www.apple.com/app-store/) (Hosting Apps for MacOS and iOS)
 * [Microsoft's App Store](https://www.microsoft.com/en-us/store/apps/windows) (Hosting Apps for Windows)
 
 ## Evaluation
