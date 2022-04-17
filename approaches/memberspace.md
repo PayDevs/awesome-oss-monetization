@@ -1,7 +1,7 @@
 > WARN: this is still work in progress!
 
-# Monetization via Paid Memberspace
-AKA: Paid Access, Paid Community, Private Community
+# Monetization via Paid Community Access
+AKA: Paid Memberspace, Paid Access, Private Community
 
 Contributions made from private persons to OSS projects in order to get access to the maintainers, contributors, or a larger community related to the OSS. These are often recurring payments for every month of access.
 

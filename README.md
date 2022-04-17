@@ -5,6 +5,7 @@
 # Awesome OSS Monetization
 A curated list of awesome monetization approaches for open source software. 
 Currently, probably with a slight bias towards open source libraries (like react.js, core-js, etc.) rather than open source programs (like OpenOffice, MariaDB, etc.). 
+
 Furthermore, the monetization approaches are meant for maintainers of the OSS - not external third-parties trying to make money with an OSS (e.g., by getting hired as an Consultant for an OSS). 
 
 __Table of Contents__
@@ -12,14 +13,15 @@ __Table of Contents__
   - [Monetization Approaches](#monetization-approaches)
     - [Unconditional Funding](#unconditional-funding)
     - [Paid Access](#paid-access)
-    - [Paid Work](#paid-work)
     - [Paid Content](#paid-content)
     - [Paid Licences](#paid-licences)
     - [Paid Services](#paid-services)
-    - [Paid for Use](#paid-for-use)
+    - [Paid Use](#paid-use)
+    - [Paid Work](#paid-work)
     - [Special Monetization Approaches](#special-monetization-approaches)
-  - [Used Characteristics](#used-characteristics)
-  - [Notes / Monetization Risks](#notes--monetization-risks)
+  - [Notes](#notes)
+    - [Used Characteristics](#used-characteristics)
+    - [Monetization Risks](#monetization-risks)
   - [Links to other Monetization Lists](#links-to-other-monetization-lists)
 
 This list is the result of extensive internet research, compiling all the monetization approaches we could find from various sources. Please note that the list, classification and terminology represents a subjective opinion on the subject.
@@ -29,7 +31,8 @@ Feel free to commit corrections, additions, or further examples. The contributio
 ---
 ## Monetization Approaches
 
-In the following sections you can find the categorized list of monetization approaches for open-source software.
+In the following sections you can find the categorized list of monetization approaches for open-source software. The categories are based on the concept the payer is paying for - e.g., the category "Paid Content" combines approaches where a User pays for some additional content such as Merchandise.
+
 An explanation of the [Used Characteristics](#used-characteristics) with metrics can be found below.
 
 ### Unconditional Funding
@@ -38,9 +41,36 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * [Funding Grants & Stipends](./approaches/grants-and-stipends.md)
 
 ### Paid Access
-* [Paid Early Access / Sponsorware / Embargo Model](./approaches/early-access.md)
-* [Paid Memberspace / Community](./approaches/memberspace.md)
+* [Paid Early Access](./approaches/early-access.md)
+* [Paid Community Access](./approaches/memberspace.md)
 * [Advertisements on Website(s)](./approaches/advertisements.md)
+
+### Paid Content
+* [Paid Online Courses](./approaches/paid-courses.md)
+* [Paid Naming Rights](./approaches/paid-version-names.md)
+* [Paid Merchandise or Books](./approaches/paid-merchandise.md)
+* [Paid Tools / Extensions / Plugins](./approaches/paid-tools.md)
+* [Paid Newsletter](./approaches/paid-newsletter.md)
+
+### Paid Licences
+* [Paid Commercial Use / Dual-Licensing](./approaches/dual-licensing.md)
+* [Paid Premium Version / Open Core](./approaches/open-core.md)
+* TBD: License Brand (use of trademark) [License Brand](./approaches/license-brand.md) 
+* TBD: Re-licensing / White Label [Sell White Label](./approaches/white-label.md) 
+
+### Paid Services
+* [Paid Hosting / Open SaaS](./approaches/paid-hosting.md)
+* [Widget Frosting](./approaches/widget-frosting.md)
+* [Paid Content Service](./approaches/paid-content-service.md)
+* TBD: Sell Brand (use of trademark) - e.g., password manager [Paid Data Storage](./approaches/paid-storage.md)
+* TBD: Sell Virtual Goods - e.g., in-app game [Paid Virtual Goods](./approaches/paid-virtual-goods.md)
+
+### Paid Use
+* [Paid Usage](./approaches/paid-usage.md)
+* [Kickback from Hoster](./approaches/kickback.md)
+* [Paid Unlocking](./approaches/paid-unlocking.md)
+* [Sell Telemetry](./approaches/telemetry.md)
+* [Blockchain-based distribution](./approaches/blockchain-distribution.md)
 
 ### Paid Work
 * [Paid Support](./approaches/paid-support.md)
@@ -49,39 +79,16 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * [Paid Version Development / Crowdfunding](./approaches/paid-versions.md)
 * [Paid Consultations](./approaches/paid-consultations.md)
 * [Paid Training & Certifications](./approaches/paid-certifications.md)
-
-### Paid Content
-* [Paid Online Courses](./approaches/paid-courses.md)
-* [Paid Naming Rights](./approaches/paid-version-names.md)
-* [Paid Merchandise or Books](./approaches/paid-merchandise.md)
-* [Paid Extensions / Plugins / Tools](./approaches/paid-tools.md)
-* [Paid Newsletter](./approaches/paid-newsletter.md)
-
-### Paid Licences
-* [Paid Commercial Use / Dual-Licensing](./approaches/dual-licensing.md)
-* [Paid Premium Version / Open Core](./approaches/open-core.md)
-
-### Paid Services
-* [Paid Hosting / Open SaaS](./approaches/paid-hosting.md)
-* [Widget Frosting](./approaches/widget-frosting.md)
-* [Paid Content](./approaches/paid-content.md)
-
-### Paid for Use
-* [Paid Usage](./approaches/paid-usage.md)
-* [Kickback from Hoster](./approaches/kickback.md)
-* [Paid Unlocking](./approaches/paid-unlocking.md)
-* [Sell Telemetry](./approaches/telemetry.md)
-* [Blockchain-based distribution](./approaches/blockchain-distribution.md)
+* [Employment](./approaches/employement.md)
 
 ### Special Monetization Approaches
-* [Employment](./approaches/employement.md)
 * [Raise Venture Capital](./approaches/raise-venture-capital.md)
 * [Sell Project](./approaches/acquisition.md)
-* TBD: Sell Brand (use of trademark)
-* TBD: Re-licensing / White Label
-* TBD: Paid Binary / Selling without proprietary license (https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Selling_without_proprietary_license)
+* TBD: Paid Binary / Selling without proprietary license (https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Selling_without_proprietary_license) [Paid Binary](./approaches/paid-binary.md) 
 
-## Used Characteristics
+## Notes
+
+### Used Characteristics
 In order to compare, evaluate, and explain the monetization approaches, several characteristics were used: 
 * __Effort to set-up__: The amount of work required to start the monetization approach. [None; Low; Medium; High; N/A]
 * __Effort to maintain income__: The amount of work needed to keep the monetization going. 
@@ -103,13 +110,13 @@ In order to compare, evaluate, and explain the monetization approaches, several 
 * __Recipient__: The entity receiving the monetization result - and who might distribute it further (I: Individual, C: Collective/Company)
 * __Competitors__: The kind of competitors for this monetization approach (M: Other maintainers, C: Contributors, O: Other Developers, Companies, or Content creators)
 
-## Notes / Monetization Risks
+### Monetization Risks
 If you want to monetize your open-source project several factors have to be considered:
-* __Not having a License__: If the current version your project has no declared license, it's legal status in undefined and you should clarify it (esp. with other maintainers or contributors)
-* __Not having a CLA__: If you're project does not have a CLA (Contributor License Agreement) the contributors still hold the full rights to their contributed source code and could sue against a monetization. If you want to monetize you should get them to sign a CLA, relicense their contributions, or remove their code (if possible).
-* __Not having a concensus about monetization itself__ in the collective of all contributors can become a problem. If you want to monetize you should ask all contributors about if and how you want to monetize. A contract clarifying the willingness to monetize might be a good idea (Please ask a lawyer for help).
+* __Not having a License__: If the current version your project has no declared license, it's legal status in undefined and you should clarify it (esp. with all other maintainers and contributors). Without a license, each user of the OSS needs explicit permission from each contributor/author to use it.
+* __Not having a CLA__: If your project does not have a [CLA (Contributor License Agreement)](http://oss-watch.ac.uk/resources/cla) each contributor still holds the full rights to their contributed source code and could sue against a monetization. Github has a clause in their ToS which covers [this](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license), but if you want to monetize you all should agree on the terms and sign a CLA or remove code from contributors unwilling to sign the new terms. Furthermore, a CLA protects the project if a contributor has copied (stolen) code from somone / somewhere else.
+* __Not having a concensus about monetization itself__ can become a problem - esp. when mixing monetization efforts (e.g., donations) by individuals and projects. If you want to monetize you should ask all contributors if, who, and how you should monetize. A contract clarifying the willingness to monetize might be a good idea (Please ask a lawyer for help).
 * __Not having a concensus about distribution of income__ in the collective can become a reason for dispute. If you want to monetize you should vote on how you want to distribute the income. The recipients of the money can be contributors but also bug bounties, conferences, or non-profits. A contract defining the distribution might be a good idea (Please ask a lawyer for help).
-* __Receiving money as a private person__: might be a bad idea - esp. if it is meant for the project. The money would have to be taxed twice - first by the individual and then by the final recipient. Furthermore, the taxation depends on the country / jurisdiction the recipients live in (or pay taxes in if they are Digital Natives). If you collect money for the project it might be a good idea to use a fiscal host. As an individual it would be good to be registered as a Freelancer, to tax the income - but in some countries the normal income tax declaration might be sufficient (Please ask a tax advisor in your country).
+* __Receiving money as a private person__: might be a bad idea - esp. if it is meant for the project. The money would have to be taxed twice - first by the individual and then by the final recipient. Furthermore, the taxation depends on the country / jurisdiction the recipients live in (or pay taxes in if they are Digital Natives). If you collect money for the project it might be a good idea to use a [fiscal host](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts). As an individual it would be good to be registered as a Freelancer, to tax the income - but in some countries the normal income tax declaration might be sufficient (Please ask a tax advisor in your country).
 * __Not paying taxes__ (as a project or individual) is always a bad idea. Even if you get only a dollar as a donation you should clarify how you have to declare the income and pay taxes (Please ask a tax advisor in your country).
 * __Using a private bank account__ for collecting funds for your project is not a good idea. An extra bank account or fiscal host for the project to collect the funding and distribute it from there will help in being transparent.
 
