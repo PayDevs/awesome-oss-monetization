@@ -1,9 +1,9 @@
 > WARN: this is still work in progress!
 
 # Monetization by Paid Content
-AKA: Pay for Data, Service Enabler
+AKA: Pay for Data, Virtual Goods, Service Enabler
 
-While the OSS is free of cost, the content or data presented or used in it is sold. Content can be, for example, news feeds, stock ticker, designs, clipart, etc. Often leads to recurring payments for data streams but can also be a singular payment for content.
+While the OSS is free of cost, the content or data presented or used in it is sold. Content can be, for example, news feeds, stock ticker, virtual goods, designs, clipart, etc. Often leads to recurring payments for data streams but can also be a singular payment for content.
 
 Requires:
 * Setup of a data / content hosting platform (hosted of self-hosted)
