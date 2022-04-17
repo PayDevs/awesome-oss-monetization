@@ -63,7 +63,6 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * [Widget Frosting](./approaches/widget-frosting.md)
 * [Paid Content Service](./approaches/paid-content-service.md)
 * [Paid Data Storage](./approaches/paid-storage.md)
-* TBD: Sell Virtual Goods - e.g., in-app game [Paid Virtual Goods](./approaches/paid-virtual-goods.md)
 
 ### Paid Use
 * [Paid Usage](./approaches/paid-usage.md)
