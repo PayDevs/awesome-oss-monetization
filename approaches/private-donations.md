@@ -1,6 +1,7 @@
 > WARN: this is still work in progress!
 
 # Monetization via Private Donations
+AKA: Donationware
 
 Voluntary contributions made from private persons to individual maintainers, contributors, or OSS projects. Often these are one-time donations, but recurring payments are also becoming more common.
 

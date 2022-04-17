@@ -1,6 +1,7 @@
 > WARN: this is still work in progress!
 
 # Monetization via Paid Merchandise
+AKA: Accessorizing
 
 Payments for merchandise, swag, apparel, mugs, stickers, books, NFTs, or other content created by the maintainers. Often one-time payments without many recurring options.
 

@@ -1,8 +1,9 @@
 > WARN: this is still work in progress!
 
 # Monetization via Paid Tools & Extensions
+AKA: Loss Leader, Proprietary Update System
 
-Payment for additional tools, extensions, or plug-ins that help the users work with the OSS or extends the OSS functionality.
+Payment for additional tools, update system, extensions, or plug-ins that help the users work with the OSS or extends the OSS functionality.
 Can be one-time paymentments for one extension or tools, but recurring payments can be realized by app-stores.
 
 Requires:
@@ -13,6 +14,7 @@ Requires:
 Variants & Options:
 * Tool: Development of a tool helping in the use of the OSS (e.g., UI layout designer for a frontend framework such as react.js)
 * Extensions & plug-ins: Additional functionality (similar to filters in photoshop, ...)
+* Premium Replacement: Selling a second (closed-source) tool far better than the OSS
 
 ## Platforms
 * [Apple's App Store](https://www.apple.com/app-store/) (Hosting Apps for MaosOS and iOS)

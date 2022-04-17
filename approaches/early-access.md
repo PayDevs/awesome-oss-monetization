@@ -1,7 +1,7 @@
 > WARN: this is still work in progress!
 
 # Monetization via Early Access
-AKA: Sponsorware, Embargo model, "Unlock the commons", Delayed open-source
+AKA: Sponsorware, Embargo model, "Unlock the commons", Delayed open-sourcing
 
 Contributions made from private persons or companies to individual maintainers, contributors, or OSS projects in order to get early access to code, apis, documentation, etc. These are often semi-recurring payments for every new version.
 

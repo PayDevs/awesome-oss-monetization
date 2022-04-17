@@ -1,7 +1,7 @@
 > WARN: this is still work in progress!
 
 # Monetization via Paid Bugfixes
-AKA: Bug Bounties
+AKA: Bug Bounties, Bounty driven Bugfixing
 
 Payment offers made by companies or other entities to fix bugs critical to their business model or security concerns.
 Often these are one-time payment offers for one bug, but projects often have more of them and if they pay for one bugfix they might pay for other bugfixes as well.

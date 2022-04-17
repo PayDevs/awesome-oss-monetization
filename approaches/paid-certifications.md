@@ -3,7 +3,7 @@
 # Monetization via Paid Certification
 AKA: Paid Trainings
 
-Payment offers made by companies or individuals to get training or certifications for the software from the maintainer(s).
+Payment offers made by companies or individuals to get training or certifications for using or interfacing with the OSS.
 Often one-time payments for one certification or training session, but companies might need continuous flow of certifications for new employees.
 
 Requires:
@@ -14,7 +14,8 @@ Requires:
 
 Variants & Options:
 * Training: Maintainers works with client directly to teach the use of the software
-* Certification: Maintainer conducts or oversees the certification with one or more candidates
+* Personal Certification: Maintainer conducts or oversees the certification of one or more candidates (people)
+* Interface Certification: Maintainer conducts or oversees the certification of a software interfacing with the OSS
 
 ## Platforms
 * [Forma Lms](https://www.formalms.org/) (Paid Courses & Certificate Management)

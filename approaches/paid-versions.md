@@ -1,7 +1,7 @@
 > WARN: this is still work in progress!
 
 # Monetization via Paid Versions
-AKA: Crowdfunding
+AKA: Crowdfunding, Pre-order
 
 Proposals from maintainers to develop major features or new versions of the software. Payments are collected via a crowdfunding platform in various tiers and can offer additional countervalues (e.g., naming the version).
 Often these are one-time payments for one version, but can be repeated if the community support exists (e.g., for every minor version).

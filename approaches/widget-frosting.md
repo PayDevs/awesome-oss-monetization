@@ -16,6 +16,7 @@ Variants & Options:
 * Hardware Bundling: Hardware (e.g., Raspberry Pi, hardware wallet, ...) and OSS is sold together
 * Software Bundling: The OSS (e.g., a plugin) is bundled with another commercial software and sold
 * Host bundling: The OSS is installed and hosted by the maintainers and then sold as a running system (incl. account, etc.)
+* Pre-Install: The OSS is pre-installed on a data storage (e.g., Kubernetes on a SD card) and sold with a margin
 
 ## Platforms
 * Product marketplaces such as Amazon, Alibaba, etc.

@@ -1,9 +1,9 @@
 > WARN: this is still work in progress!
 
 # Monetization via Paid Unlocking
-AKA: Paid performance, Pay for speed, Pay for features
+AKA: Paid performance, Pay for speed, Pay for features, Crippleware, Feature-limited
 
-Contributions made by a user to un-throttle or unlock higher performance or special features. Payment could be collected via external API or crypto wallet and would become recurring.
+Contributions made by a user to un-throttle or unlock higher performance or special features. Payment could be collected via an registration key, external API or use of a crypto wallet and could become recurring.
 
 Requires:
 * Setup of a payment mechanism (e.g. via hosted API or crypto wallet)
