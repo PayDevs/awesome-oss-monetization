@@ -15,6 +15,7 @@ Variants & Options:
 * Ad-free option: Integrating a paid account to opt-out of ads (e.g., via a private donation platform or memberspace)
 
 ## Platforms
+* [CarbonAds](https://www.carbonads.net/)
 * [Google AdSense](https://www.google.com/adsense) etc. (On webpage ads)
 
 ## Evaluation
