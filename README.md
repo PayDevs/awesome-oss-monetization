@@ -56,7 +56,7 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * [Paid Commercial Use / Dual-Licensing](./approaches/dual-licensing.md)
 * [Paid Premium Version / Open Core](./approaches/open-core.md)
 * [Licensing the Brand](./approaches/license-brand.md) 
-* TBD: Re-licensing / White Label [Sell White Label](./approaches/white-label.md) 
+* [Sell White Label](./approaches/white-label.md) 
 
 ### Paid Services
 * [Paid Hosting / Open SaaS](./approaches/paid-hosting.md)

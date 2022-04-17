@@ -21,7 +21,7 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Requires brand building and creation of legal documents
-| Effort to maintain income         | Medium | Depends on the popularity and size of target group
+| Effort to maintain income         | Low    | Depends on the popularity and size of target group
 | Visibility                        | Medium | If competitors see brand usage they might want to license it themselves
 | Necessity to pay                  | Medium | Only you can license the brand but it might not be necessary / attractive to do so for the companies
 | Scalability                       | Medium | Scales with the number of companies
