@@ -23,22 +23,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Low    | Integration of code for ads and bank info is sufficient
-| Effort to maintain income         | Low    | Maybe minor version updates
-| Visibility                        | N/A    | Companies using ads will only see ad network
-| Necessity to pay                  | None   | Users pay with visit / looking at ads
-| Scalability                       | Medium | Scales with the number of users
+| Effort to maintain                | Low    | Maybe minor version updates
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | None   | 
 | One-time Income                   | Medium | Individual sponsors who want to promote themselves might pay more for specific communities
 | Recurring Income                  | Low    | CPM is 1-10 USD - large audiences are needed
-| Income Stability / Predictability | High   | Ad revenue is not very volatile
-| Entry Threshold for client        | None   | 
-| Clients needed for full income    | 1M+    | Assuming visitors to website per month; based on 5k USD salary (pre-Tax)
-
-| Effort for marketing              | Low    | No marketing to get ads - maybe to enlarge community or site usage. 
-| Countervalue                      | None   | 
-| Perfect for software type         | Tools  | Esp. for OSS with visible content Apps, Programs, or Websites (e.g., docu)
-
-| Additional Work                   | None   | Maybe little extra work to manage ads
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | None   | 
+| Income Predictability             | High   | Ad revenue is not very volatile
+| Full income Threshold             | 1M+    | Assuming visitors to website per month; based on 5k USD salary (pre-Tax)
 | Recipient                         | I or C | 
+| Additional Work                   | None   | Maybe little extra work to manage ads
+| Visibility                        | N/A    | Companies using ads will only see ad network
+| Necessity to pay                  | None   | Users pay with visit / looking at ads
+| Entry Threshold                   | None   | 
+| Countervalue                      | None   | 
+| Scalability                       | Medium | Scales with the number of users
+| Effort for marketing              | Low    | No marketing to get ads - maybe to enlarge community or site usage. 
 | Competitors                       | None   | At least no competition of ads for the project's homepage, etc.
+| Software types                    | Tools  | Esp. for OSS with visible content Apps, Programs, or Websites (e.g., docu)

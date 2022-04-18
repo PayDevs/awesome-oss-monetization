@@ -24,22 +24,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Free data hosting probably exists but paid data hosting need to be implemented
-| Effort to maintain income         | Medium | Premium data/content has to come from somewhere
-| Visibility                        | Low    | Easy to overlook by users except for ads
-| Necessity to pay                  | Medium | A free version has probably everything necessary. Premium content could be inserted but disabled/blured.
-| Scalability                       | High   | Scales with the number of end-users and content streams
+| Effort to maintain                | Medium | Premium data/content has to come from somewhere
+| Cost to set-up                    | Low    | Maybe for hosted content but probably percentage based
+| Cost to maintain                  | Low    | Platform used to host & pay for data might cost 
 | One-time Income                   | Medium | If content is bought one-time (e.g., designs)
 | Recurring Income                  | Low    | Depends on value of premium streams (e.g., stock data)
-| Income Stability / Predictability | Medium | Client might go back to free
-| Entry Threshold for client        | Low    | Premium data could be offered and bought in-app 
-| Clients needed for full income    | ?1000+ | Depends heavily on the data/content value
-
-| Effort for marketing              | Medium | If free data is already usefull buyers have to be convinced
-| Countervalue                      | Premium| User pays for premium data
-| Perfect for software type         | Special| Best for apps with news streams or templates
-
-| Additional Work                   | Low    | Extra work to create data / content
-| Upfront Cost                      | Low    | Maybe for hosted content but probably percentage based
-| Continuous Cost                   | Low    | Platform used to host & pay for data might cost 
+| Income Predictability             | Medium | Client might go back to free
+| Full income Threshold             | ?1000+ | Depends heavily on the data/content value
 | Recipient                         | C      | Each maintainer might offer a personal data stream
+| Additional Work                   | Low    | Extra work to create data / content
+| Visibility                        | Low    | Easy to overlook by users except for ads
+| Necessity to pay                  | Medium | A free version has probably everything necessary. Premium content could be inserted but disabled/blured.
+| Entry Threshold                   | Low    | Premium data could be offered and bought in-app 
+| Countervalue                      | Premium| User pays for premium data
+| Scalability                       | High   | Scales with the number of end-users and content streams
+| Effort for marketing              | Medium | If free data is already usefull buyers have to be convinced
 | Competitors                       | O      | Everybody could offer data / content but integration might be constricted by maintainers
+| Software types                    | Special| Best for apps with news streams or templates

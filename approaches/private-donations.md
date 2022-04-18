@@ -27,22 +27,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Low    | Some descriptions and bank info is sufficient
-| Effort to maintain income         | High   | Constant reminders to donate necessary
-| Visibility                        | Low    | Easy to forget, ignore, or overlook by users
-| Necessity to pay                  | Low    | Completely voluntary
-| Scalability                       | Medium | Scales with the number of users (who want to donate)
+| Effort to maintain                | High   | Constant reminders to donate necessary
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | None   | 
 | One-time Income                   | Low    | Few private sponsors will pay more than a few dollars (due to own finances and high competition (too many projects to feed))
 | Recurring Income                  | Low    | Very few sponsors will pay recurringly
-| Income Stability / Predictability | Low    | Constant reminders to donate necessary; Sponsors can come and go on a whim
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 1000+  | based on 5k USD (pre-Tax)
-
-| Effort for marketing              | High   | 
-| Countervalue                      | None   | 
-| Perfect for software type         | All    | 
-
-| Additional Work                   | None   | 
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | None   | 
+| Income Predictability             | Low    | Constant reminders to donate necessary; Sponsors can come and go on a whim
+| Full income Threshold             | 1000+  | 
 | Recipient                         | I + C  | 
+| Additional Work                   | None   | 
+| Visibility                        | Low    | Easy to forget, ignore, or overlook by users
+| Necessity to pay                  | Low    | Completely voluntary
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Countervalue                      | None   | 
+| Scalability                       | Medium | Scales with the number of users (who want to donate)
+| Effort for marketing              | High   | 
 | Competitors                       | None   | 
+| Software types                    | All    | 

@@ -27,22 +27,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Low    | Only requires private repository or password-protected website
-| Effort to maintain income         | High   | Constant reminders to sponsor necessary; Requires additional "publish" step
-| Visibility                        | Medium | Easy to forget, ignore, or overlook, but early-access users might talk about the new stuff
-| Necessity to pay                  | Medium | Might be necessary for security-sensitive companies or hosting services (e.g., for databases)
-| Scalability                       | Low    | Early access to OSS gives only rarely an edge
+| Effort to maintain                | High   | Constant reminders to sponsor necessary; Requires additional "publish" step
+| Cost to set-up                    | Low    | Might require a little money for hosting private repos/content 
+| Cost to maintain                  | Low    | Might require a little money for hosting private repos/content 
 | One-time Income                   | Medium | Often based on hourly wage
 | Recurring Income                  | Medium | Few users wants early access but might pay more and recurring if so
-| Income Stability / Predictability | Medium | If recurring payments work they will probably continue  
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 100+   | based on 5k USD (pre-Tax)
-
-| Effort for marketing              | Medium | Similar to donations but early-access users might talk about the new stuff
-| Countervalue                      | Access | Might cause minimal additional work to handle multiple repositories
-| Perfect for software type         | All    | Esp. for OSS that gives payer an edge (test security, write news, host service, ...)
-
-| Additional Work                   | Low    | Might require to manage public and private repos/content
-| Upfront Cost                      | Low    | Might require a little money for hosting private repos/content 
-| Continuous Cost                   | Low    | Might require a little money for hosting private repos/content 
+| Income Predictability             | Medium | If recurring payments work they will probably continue  
+| Full income Threshold             | 100+   | 
 | Recipient                         | C      | 
+| Additional Work                   | Low    | Might require to manage public and private repos/content
+| Visibility                        | Medium | Easy to forget, ignore, or overlook, but early-access users might talk about the new stuff
+| Necessity to pay                  | Medium | Might be necessary for security-sensitive companies or hosting services (e.g., for databases)
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Countervalue                      | Access | Might cause minimal additional work to handle multiple repositories
+| Scalability                       | Low    | Early access to OSS gives only rarely an edge
+| Effort for marketing              | Medium | Similar to donations but early-access users might talk about the new stuff
 | Competitors                       | None   | 
+| Software types                    | All    | Esp. for OSS that gives payer an edge (test security, write news, host service, ...)

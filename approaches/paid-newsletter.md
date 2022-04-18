@@ -24,24 +24,22 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Low    | Some descriptions and bank info is sufficient
-| Effort to maintain income         | Medium | Continuous producing of content
-| Visibility                        | Medium | Easy to forget, ignore, or overlook
-| Necessity to pay                  | Low    | Voluntary but with countervalue
-| Scalability                       | Medium | Scales with the number of users (who want the news)
+| Effort to maintain                | Medium | Continuous producing of content
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | None   | Hosting services often take a share of income
 | One-time Income                   | Medium | For additional ads such as job postings
 | Recurring Income                  | Low    | Created content is probably not very valuable 
-| Income Stability / Predictability | Low    | Constant reminders to newsletter might be necessary.
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 500+   | subscribers per month; Youtube CPM is 1-5 USD; based on 5k USD (pre-Tax)
-
-| Effort for marketing              | High   | 
-| Countervalue                      | Work   | Creation or producing the content
-| Perfect for software type         | Big SW | Better for big projects that change often or have a big ecosystem
-
-| Additional Work                   | Medium | Extra time to create and update newsletter
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | None   | Hosting services often take a share of income
+| Income Predictability             | Low    | Constant reminders to newsletter might be necessary.
+| Full income Threshold             | 500+   | subscribers per month; Youtube CPM is 1-5 USD; 
 | Recipient                         | I/C    | Depends on who contributes to the newsletter
+| Additional Work                   | Medium | Extra time to create and update newsletter
+| Visibility                        | Medium | Easy to forget, ignore, or overlook
+| Necessity to pay                  | Low    | Voluntary but with countervalue
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Countervalue                      | Work   | Creation or producing the content
+| Scalability                       | Medium | Scales with the number of users (who want the news)
+| Effort for marketing              | High   | 
 | Competitors                       | O?     | Everybody can create a online course to the OSS
+| Software types                    | Big SW | Better for big projects that change often or have a big ecosystem
 
 > NOTE: Potentially, "unofficial" newsletter can also be issued by non-maintainers (i.e., just expert), which could increase the competition. However, if internals are communicated (e.g., next roadmap steps) this might not be a problem.

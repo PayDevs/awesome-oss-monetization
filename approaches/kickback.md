@@ -22,22 +22,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Application to be approved by a hoster; Might need extra work to convert credits into real money
-| Effort to maintain income         | Low    | 
-| Visibility                        | N/A    | Not necessary but might help hoster
-| Necessity to pay                  | Low    | Payment is collected by hoster (who might have higher prices)
-| Scalability                       | Medium | Scales with the number of running instances (but only at few hosters)
+| Effort to maintain                | Low    | 
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | Low    | Maybe a little work to use or exchange the credits
 | One-time Income                   | N/A    | 
 | Recurring Income                  | Low    | Depends on the payout offered or the effectiveness to convert credits into money
-| Income Stability / Predictability | Medium | If the clients like the hoster payouts can be stable
-| Entry Threshold for client        | None   | Client only pay indirectly via his hoster/cloud for the resources
-| Clients needed for full income    | ?1000+ | Depends heavily on efficiency of the value-generating subsystem
-
-| Effort for marketing              | Low    | It might help to nudge users towards the hoster
-| Countervalue                      | Aware. | Users get nothing but hosters get awareness
-| Perfect for software type         | Special| Best for stand-alone systems on one server (e.g., databases, blogs, LMS, etc.)
-
-| Additional Work                   | None   | 
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | Low    | Maybe a little work to use or exchange the credits
+| Income Predictability             | Medium | If the clients like the hoster payouts can be stable
+| Full income Threshold             | ?1000+ | Depends heavily on efficiency of the value-generating subsystem
 | Recipient                         | C      | 
+| Additional Work                   | None   | 
+| Visibility                        | N/A    | Not necessary but might help hoster
+| Necessity to pay                  | Low    | Payment is collected by hoster (who might have higher prices)
+| Entry Threshold                   | None   | Client only pay indirectly via his hoster/cloud for the resources
+| Countervalue                      | Aware. | Users get nothing but hosters get awareness
+| Scalability                       | Medium | Scales with the number of running instances (but only at few hosters)
+| Effort for marketing              | Low    | It might help to nudge users towards the hoster
 | Competitors                       | None   | 
+| Software types                    | Special| Best for stand-alone systems on one server (e.g., databases, blogs, LMS, etc.)

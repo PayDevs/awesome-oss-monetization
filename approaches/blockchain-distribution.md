@@ -20,22 +20,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Low    | Registering at the blockchain-based package manager
-| Effort to maintain income         | Low    | Probably only uploading or registering new versions
-| Visibility                        | Medium | Might be visible if users need to buy tokens to download
-| Necessity to pay                  | High   | Payment is enforced by using the package manager
-| Scalability                       | High   | Scales with the number of users
+| Effort to maintain                | Low    | Probably only uploading or registering new versions
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | None   | 
 | One-time Income                   | N/A    | Token system probably causes recurring revenue
 | Recurring Income                  | Low    | Crypto might not be worth much; Depends on need to buy tokens
-| Income Stability / Predictability | Medium | If users accept paying it should become stable; Crypto might be very volatile
-| Entry Threshold for client        | None   | Client only pays indirectly via his hoster/cloud for the resources
-| Clients needed for full income    | ?1000+ | Depends heavily on pricing of the crypto token
-
-| Effort for marketing              | None   | Will make waves but no "sale" is necessary
-| Countervalue                      | OSS    | User pays for downloading & using the OSS
-| Perfect for software type         | Special| Best for tools and libraries
-
-| Additional Work                   | None   | Maybe little extra work to deploy to blockchain registry
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | None   | 
+| Income Predictability             | Medium | If users accept paying it should become stable; Crypto might be very volatile
+| Full income Threshold             | ?1000+ | Depends heavily on pricing of the crypto token
 | Recipient                         | I or C | 
+| Additional Work                   | None   | Maybe little extra work to deploy to blockchain registry
+| Visibility                        | Medium | Might be visible if users need to buy tokens to download
+| Necessity to pay                  | High   | Payment is enforced by using the package manager
+| Entry Threshold                   | None   | Client only pays indirectly via his hoster/cloud for the resources
+| Countervalue                      | OSS    | User pays for downloading & using the OSS
+| Scalability                       | High   | Scales with the number of users
+| Effort for marketing              | None   | Will make waves but no "sale" is necessary
 | Competitors                       | None   | 
+| Software types                    | Special| Best for tools and libraries

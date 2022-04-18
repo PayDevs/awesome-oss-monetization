@@ -26,24 +26,22 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | High   | Creating a complete course is a lot of work
-| Effort to maintain income         | Medium | Updating the course or continuously creating short videos is time-consuming
-| Visibility                        | Medium | Easy to oversee. Youtube might increase reach
-| Necessity to pay                  | Low    | Might increase with the complexity and wide-spread use of the software
-| Scalability                       | Medium | Scales with the number of users (who want to learn)
+| Effort to maintain                | Medium | Updating the course or continuously creating short videos is time-consuming
+| Cost to set-up                    | None   | Depends on quality: can include camera, greenscreen, etc.
+| Cost to maintain                  | None   | Hosting the course might cost a little bit (but should be covered by income)
 | One-time Income                   | Low    | Courses are relatively cheap for learners
 | Recurring Income                  | Medium | Up-to-date courses are popular with individuals and employers
-| Income Stability / Predictability | Low    | Constant reminders to course might be necessary. Youtube might bring new customers
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 500+   | clients per month; Youtube CPM is 1-5 USD; based on 5k USD (pre-Tax)
-
-| Effort for marketing              | Medium | Customers might find course via platform / google
-| Countervalue                      | 1xWork | Creation and update of course is time-consuming
-| Perfect for software type         | Big SW | Better for big, complex and widely-used software
-
-| Additional Work                   | Medium | Extra time to create and update course
-| Upfront Cost                      | None   | Depends on quality: can include camera, greenscreen, etc.
-| Continuous Cost                   | None   | Hosting the course might cost a little bit (but should be covered by income)
+| Income Predictability             | Low    | Constant reminders to course might be necessary. Youtube might bring new customers
+| Full income Threshold             | 500+   | clients per month; Youtube CPM is 1-5 USD; 
 | Recipient                         | I/C    | Depends on who contributes to the course(s)
+| Additional Work                   | Medium | Extra time to create and update course
+| Visibility                        | Medium | Easy to oversee. Youtube might increase reach
+| Necessity to pay                  | Low    | Might increase with the complexity and wide-spread use of the software
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Scalability                       | Medium | Scales with the number of users (who want to learn)
+| Countervalue                      | 1xWork | Creation and update of course is time-consuming
+| Effort for marketing              | Medium | Customers might find course via platform / google
 | Competitors                       | O      | Everybody can create a online course to the OSS
+| Software types                    | Big SW | Better for big, complex and widely-used software
 
 > NOTE: Potentially, "unofficial" online courses can also be issued by non-maintainers (i.e., just expert), which could increase the competition.

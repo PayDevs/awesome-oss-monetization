@@ -93,19 +93,19 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 ### Used Characteristics
 In order to compare, evaluate, and explain the monetization approaches, several characteristics were used: 
 * __Effort to set-up__: The amount of work required to start the monetization approach. [None; Low; Medium; High; N/A] or [None; Hours; Days; Weeks; Months; Years; N/A]
-* __Effort to maintain income__: The amount of work needed to keep the monetization going. 
+* __Effort to maintain       __: The amount of work needed to keep the monetization going. 
 * __Visibility__: The ease with which a user of the OSS notices the monetization approach. 
 * __Necessity to pay__: The need for the user of an OSS to accept and pay. 
 * __Scalability__: The ease and number of users or companies that can be reached to pay. 
 * __One-time Income__: The level of one single contribution. 
 * __Recurring Income__: The level of monthly contribution that can be expected. 
-* __Income Stability / Predictability__: [None; Low; Medium; High; N/A] or [None; Hours; Days; Weeks; Months; Years; N/A]
-* __Entry Threshold for client__: The amount of effort necessary to contribute money. 
-* __Clients needed for full income__: The amount of payers necessary to get to 5k USD (pre-Tax) per month. 
+* __Income Predictability            __: [None; Low; Medium; High; N/A] or [None; Hours; Days; Weeks; Months; Years; N/A]
+* __Entry Threshold           __: The amount of effort necessary to contribute money. 
+* __Full income Threshold         __: The amount of payers necessary to get to 5k USD (pre-Tax) per month. 
 
 * __Effort for marketing__: The amount of work necessary to make the monetization opportunity known to the public. 
 * __Countervalue__: The value a contributor of money gets if he pays. 
-* __Perfect for software type__: The types of OSS that would benefit the most from this onetization approach. 
+* __Software types           __: The types of OSS that would benefit the most from this onetization approach. 
 
 * __Additional Work__: The amount of (continuous) work required in addition to working on the OSS. 
 * __Upfront Cost__: The monetary cost to setup the monetization approach (e.g., for external services) - excluding cost for private bank accounts, tax advisors, etc. 

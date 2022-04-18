@@ -22,22 +22,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Implement data storage and payment system
-| Effort to maintain income         | Low    | Backup and maintain data storage
-| Visibility                        | Medium | Gets harder the more the system is used (more data created)
-| Necessity to pay                  | Low    | The base version can probably work without paid data storage (or few people would try it) 
-| Scalability                       | High   | Scales with the number of end-users and data created.
+| Effort to maintain                | Low    | Backup and maintain data storage
+| Cost to set-up                    | Low    | Maybe for DB and backup
+| Cost to maintain                  | Low    | Cost of data storage & backup
 | One-time Income                   | Medium | If data storage is bought for life, etc.
 | Recurring Income                  | Medium | 
-| Income Stability / Predictability | Medium | Client might go back to free
-| Entry Threshold for client        | Low    | If starting with free storage
-| Clients needed for full income    | 1000+  | Depends heavily on the data storage price
-
-| Effort for marketing              | Low    | Users probably increase their data volume
-| Countervalue                      | Storage| User pays for data storage, backups, and access from multiple devices
-| Perfect for software type         | Special| Best for tools that create or handle user data
-
-| Additional Work                   | Medium | Extra work to setup data storage
-| Upfront Cost                      | Low    | Maybe for DB and backup
-| Continuous Cost                   | Low    | Cost of data storage & backup
+| Income Predictability             | Medium | Client might go back to free
+| Full income Threshold             | 1000+  | Depends heavily on the data storage price
 | Recipient                         | C      | 
+| Additional Work                   | Medium | Extra work to setup data storage
+| Visibility                        | Medium | Gets harder the more the system is used (more data created)
+| Necessity to pay                  | Low    | The base version can probably work without paid data storage (or few people would try it) 
+| Entry Threshold                   | Low    | If starting with free storage
+| Countervalue                      | Storage| User pays for data storage, backups, and access from multiple devices
+| Scalability                       | High   | Scales with the number of end-users and data created.
+| Effort for marketing              | Low    | Users probably increase their data volume
 | Competitors                       | None   | Could be opened for compeitors within OSS
+| Software types                    | Special| Best for tools that create or handle user data

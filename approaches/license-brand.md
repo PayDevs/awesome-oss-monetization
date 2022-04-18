@@ -21,22 +21,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Requires brand building and creation of legal documents
-| Effort to maintain income         | Low    | Depends on the popularity and size of target group
-| Visibility                        | Medium | If competitors see brand usage they might want to license it themselves
-| Necessity to pay                  | Medium | Only you can license the brand but it might not be necessary / attractive to do so for the companies
-| Scalability                       | Medium | Scales with the number of companies
+| Effort to maintain                | Low    | Depends on the popularity and size of target group
+| Cost to set-up                    | Medium | Will require a lawyer to setup the license and contracts
+| Cost to maintain                  | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)
 | One-time Income                   | High   | Depends on brand attractiveness
 | Recurring Income                  | High   | Depends on brand attractiveness
-| Income Stability / Predictability | Medium | Might degrade if similar projects become more attractive
-| Entry Threshold for client        | Medium | Requires contracts
-| Clients needed for full income    | 50-    | based on 5k USD (pre-Tax)
-
-| Effort for marketing              | Medium | Depends on brand attractiveness
-| Countervalue                      | Brand  | 
-| Perfect for software type         | Complex| Better for complex software or tools
-
-| Additional Work                   | Low    | Usage verification and contract negotiation
-| Upfront Cost                      | Medium | Will require a lawyer to setup the license and contracts
-| Continuous Cost                   | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)
+| Income Predictability             | Medium | Might degrade if similar projects become more attractive
+| Full income Threshold             | 50-    | 
 | Recipient                         | C      | 
+| Additional Work                   | Low    | Usage verification and contract negotiation
+| Visibility                        | Medium | If competitors see brand usage they might want to license it themselves
+| Necessity to pay                  | Medium | Only you can license the brand but it might not be necessary / attractive to do so for the companies
+| Entry Threshold                   | Medium | Requires contracts
+| Countervalue                      | Brand  | 
+| Scalability                       | Medium | Scales with the number of companies
+| Effort for marketing              | Medium | Depends on brand attractiveness
 | Competitors                       | None   | At least not for your brand
+| Software types                    | Complex| Better for complex software or tools

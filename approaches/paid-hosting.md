@@ -26,24 +26,22 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | High   | Creation of a legal entity and platform/website
-| Effort to maintain income         | Medium | Finding new customers will become necessary
-| Visibility                        | Low    | Easy to overlook by users (esp. if they self-host)
-| Necessity to pay                  | Low    | Might be attractive for companies (e.g., pay for support)
-| Scalability                       | Medium | Scales with the number of commercial or non-technical users (who do not want to self-host)
+| Effort to maintain                | Medium | Finding new customers will become necessary
+| Cost to set-up                    | Medium | Will require a lawyer to setup the license and contracts
+| Cost to maintain                  | Medium | Will cause costs for resources, legal, and tax related stuff (but should be covered by income)
 | One-time Income                   | N/A    | Probably only monthly payments meaningful
 | Recurring Income                  | Medium | Recurring payments per month or resource
-| Income Stability / Predictability | High   | Clients want hosted version probably for several years
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 100+   | based on 5k USD (pre-Tax)
-
-| Effort for marketing              | Medium | The convienience factor will help
-| Countervalue                      | Hosting| 
-| Perfect for software type         | Special| Best for larger software, databases, etc.
-
-| Additional Work                   | Medium | Extra work to develop the SaaS around the OSS
-| Upfront Cost                      | Medium | Will require a lawyer to setup the license and contracts
-| Continuous Cost                   | Medium | Will cause costs for resources, legal, and tax related stuff (but should be covered by income)
+| Income Predictability             | High   | Clients want hosted version probably for several years
+| Full income Threshold             | 100+   | 
 | Recipient                         | C      | 
+| Additional Work                   | Medium | Extra work to develop the SaaS around the OSS
+| Visibility                        | Low    | Easy to overlook by users (esp. if they self-host)
+| Necessity to pay                  | Low    | Might be attractive for companies (e.g., pay for support)
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Countervalue                      | Hosting| 
+| Scalability                       | Medium | Scales with the number of commercial or non-technical users (who do not want to self-host)
+| Effort for marketing              | Medium | The convienience factor will help
 | Competitors                       | O      | Other companies might host the OSS as well
+| Software types                    | Special| Best for larger software, databases, etc.
 
 > NOTE: External companies might offer similar hosting solutions and become competition.

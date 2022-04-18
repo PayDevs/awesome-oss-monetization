@@ -20,22 +20,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Requires creation of legal documents
-| Effort to maintain income         | Low    | Depends on the popularity and size of target group
-| Visibility                        | Low    | Constant marketing necessary
-| Necessity to pay                  | Medium | Only you can allow re-license but users can use the licensed OSS
-| Scalability                       | Medium | Scales with the number of companies
+| Effort to maintain                | Low    | Depends on the popularity and size of target group
+| Cost to set-up                    | Medium | Will require a lawyer to setup the license and contracts
+| Cost to maintain                  | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)
 | One-time Income                   | High   | Depends on OSS popularity
 | Recurring Income                  | High   | Depends on OSS popularity
-| Income Stability / Predictability | Medium | Might degrade if similar projects become more attractive
-| Entry Threshold for client        | Medium | Requires contracts
-| Clients needed for full income    | 50-    | based on 5k USD (pre-Tax)
-
-| Effort for marketing              | Medium | Depends on OSS popularity
-| Countervalue                      | White Label | 
-| Perfect for software type         | Special| Best for stand-alone systems with third-party users (e.g., blogs, LMS, etc.)
-
-| Additional Work                   | Low    | Usage verification and contract negotiation
-| Upfront Cost                      | Medium | Will require a lawyer to setup the license and contracts
-| Continuous Cost                   | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)
+| Income Predictability             | Medium | Might degrade if similar projects become more attractive
+| Full income Threshold             | 50-    | 
 | Recipient                         | C      | 
+| Additional Work                   | Low    | Usage verification and contract negotiation
+| Visibility                        | Low    | Constant marketing necessary
+| Necessity to pay                  | Medium | Only you can allow re-license but users can use the licensed OSS
+| Entry Threshold                   | Medium | Requires contracts
+| Countervalue                      | White Label | 
+| Scalability                       | Medium | Scales with the number of companies
+| Effort for marketing              | Medium | Depends on OSS popularity
 | Competitors                       | None   | At least not for your brand
+| Software types                    | Special| Best for stand-alone systems with third-party users (e.g., blogs, LMS, etc.)

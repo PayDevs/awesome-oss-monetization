@@ -22,22 +22,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Low    | 
-| Effort to maintain income         | None   | 
-| Visibility                        | Medium | Easy to oversee. Eye-catching names might increase reach
-| Necessity to pay                  | Low    | Might increase with the "prestige" of the software
-| Scalability                       | Low    | Scales with the number of commits and versions
+| Effort to maintain                | None   | 
+| Cost to set-up                    | Medium | Maybe cost for generation of NFT
+| Cost to maintain                  | Low    | Maybe cost for hosting of NFT
 | One-time Income                   | Medium | Might increase with the "prestige" and competition for naming
 | Recurring Income                  | Low    | Maybe through special payments in an DAO contract
-| Income Stability / Predictability | Low    | 
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 100+   | Assuming one minor version and many commits
-
-| Effort for marketing              | Medium | Customers might find NFT or version name on other platforms
-| Countervalue                      | V. Name| 
-| Perfect for software type         | Big SW | Better for famous and widely-known software
-
-| Additional Work                   | None   | Maybe maintenance of website that lists versions and names
-| Upfront Cost                      | Medium | Maybe cost for generation of NFT
-| Continuous Cost                   | Low    | Maybe cost for hosting of NFT
+| Income Predictability             | Low    | 
+| Full income Threshold             | 100+   | Assuming one minor version and many commits
 | Recipient                         | C      | 
+| Additional Work                   | None   | Maybe maintenance of website that lists versions and names
+| Visibility                        | Medium | Easy to oversee. Eye-catching names might increase reach
+| Necessity to pay                  | Low    | Might increase with the "prestige" of the software
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Countervalue                      | V. Name| 
+| Scalability                       | Low    | Scales with the number of commits and versions
+| Effort for marketing              | Medium | Customers might find NFT or version name on other platforms
 | Competitors                       | None   | 
+| Software types                    | Big SW | Better for famous and widely-known software

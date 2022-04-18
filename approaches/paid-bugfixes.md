@@ -27,24 +27,22 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Low    | Some descriptions and bank info is sufficient
-| Effort to maintain income         | High   | New descriptions and pricings for every new bug & development time
-| Visibility                        | Medium | Every new bug issue will be a reminder for the bug bounties
-| Necessity to pay                  | Medium | Might be necessary for critical bugs 
-| Scalability                       | Low    | Scales to the time available to fix bugs
+| Effort to maintain                | High   | New descriptions and pricings for every new bug & development time
+| Cost to set-up                    | None   | Bug Bounty software is often free or only take a small cut
+| Cost to maintain                  | None    | Bug Bounty software is often free or only take a small cut
 | One-time Income                   | Medium | Often based on hourly wage
 | Recurring Income                  | Low    | Bugs never cease but payers might
-| Income Stability / Predictability | Low    | Too many bugs --> no users; Too few bugs --> no income
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 100+   | based on 5k USD (pre-Tax)
-
-| Effort for marketing              | Medium | 
-| Countervalue                      | Work   | 
-| Perfect for software type         | All    | 
-
-| Additional Work                   | Medium | Extra work to fix (hard) bugs
-| Upfront Cost                      | None   | Bug Bounty software is often free or only take a small cut
-| Continuous Cost                   | None    | Bug Bounty software is often free or only take a small cut
+| Income Predictability             | Low    | Too many bugs --> no users; Too few bugs --> no income
+| Full income Threshold             | 100+   | 
 | Recipient                         | I      | 
+| Additional Work                   | Medium | Extra work to fix (hard) bugs
+| Visibility                        | Medium | Every new bug issue will be a reminder for the bug bounties
+| Necessity to pay                  | Medium | Might be necessary for critical bugs 
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Countervalue                      | Work   | 
+| Scalability                       | Low    | Scales to the time available to fix bugs
+| Effort for marketing              | Medium | 
 | Competitors                       | O      | Might be constrained to maintainers (i.e., rejecting bug fixes from external contributors / developers)
+| Software types                    | All    | 
 
 > NOTE: If external contributors fix bugs and maintainers accept the changes the bounties are paid to the contributors and not the the maintainers of the project. This might be hindering the monetization effort of the OSS project by the maintainers.

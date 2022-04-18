@@ -24,24 +24,22 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Logo-design can be outsourced. Creating a book is a lot of work
-| Effort to maintain income         | Low    | Updating merchandise is almost no work, updating books is more work
-| Visibility                        | Medium | Easy to oversee. Merch listings & wearers might increase reach
-| Necessity to pay                  | Low    | Might increase with the "prestige" of the software
-| Scalability                       | Medium | Scales with the number of users (who want the merch)
+| Effort to maintain                | Low    | Updating merchandise is almost no work, updating books is more work
+| Cost to set-up                    | Low    | Low cost from Logo design, etc.
+| Cost to maintain                  | None   | 
 | One-time Income                   | Low    | Merch and books are relatively cheap
 | Recurring Income                  | Low    | Book updates might have an recurring effect 
-| Income Stability / Predictability | Low    | Constant reminders to merch might be necessary. Merch producers might bring new customers
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 500+   | buyers per month; based on 5k USD (pre-Tax)
-
-| Effort for marketing              | Medium | Customers might find merch & books via platform / google
-| Countervalue                      | 1xWork | Creation and update of book is time-consuming
-| Perfect for software type         | Big SW | Better for big, complex and widely-used software
-
-| Additional Work                   | None   | Maybe if logo or content is updated
-| Upfront Cost                      | Low    | Low cost from Logo design, etc.
-| Continuous Cost                   | None   | 
+| Income Predictability             | Low    | Constant reminders to merch might be necessary. Merch producers might bring new customers
+| Full income Threshold             | 500+   | buyers per month; 
 | Recipient                         | C      | 
+| Additional Work                   | None   | Maybe if logo or content is updated
+| Visibility                        | Medium | Easy to oversee. Merch listings & wearers might increase reach
+| Necessity to pay                  | Low    | Might increase with the "prestige" of the software
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Countervalue                      | 1xWork | Creation and update of book is time-consuming
+| Scalability                       | Medium | Scales with the number of users (who want the merch)
+| Effort for marketing              | Medium | Customers might find merch & books via platform / google
 | Competitors                       | None   | Logo or designs are probably copyrighted/trademarked by one maintainer or collective
+| Software types                    | Big SW | Better for big, complex and widely-used software
 
 > NOTE: Potentially, "unofficial" books can also be issued by non-maintainers (i.e., just expert), which could increase the competition. However, if the logo etc. is a registered trademark, merchandise from competitors might not be a problem.

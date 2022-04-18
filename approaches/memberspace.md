@@ -25,22 +25,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Requires community platform or website
-| Effort to maintain income         | High   | Constant reminders to join the (paid) community necessary; Communication effort in addition to development work
-| Visibility                        | Medium | Easy to forget, ignore, or overlook, but community might talk about news
-| Necessity to pay                  | Low    | Voluntary; Low countervalue; Might work for curious / social people in the community
-| Scalability                       | Medium | Scales with the number of users (who want interact with community)
+| Effort to maintain                | High   | Constant reminders to join the (paid) community necessary; Communication effort in addition to development work
+| Cost to set-up                    | Low    | Might require a little money for community platform or website 
+| Cost to maintain                  | Low    | Might require a little money for community platform or website hosting
 | One-time Income                   | Low    | Few private sponsors will pay more than a few dollars
 | Recurring Income                  | Low    | Few sponsors will pay recurringly for access to maintainers
-| Income Stability / Predictability | Medium | If recurring payments work they will probably continue  
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 1000+  | based on 5k USD (pre-Tax)
-
-| Effort for marketing              | Medium | Similar to donations but access might get users to talk about the new stuff
-| Countervalue                      | Access | Will cause additional work to communicate with community
-| Perfect for software type         | All    | 
-
-| Additional Work                   | Medium | Will require time to interact with members
-| Upfront Cost                      | Low    | Might require a little money for community platform or website 
-| Continuous Cost                   | Low    | Might require a little money for community platform or website hosting
+| Income Predictability             | Medium | If recurring payments work they will probably continue  
+| Full income Threshold             | 1000+  | 
 | Recipient                         | C      | 
+| Additional Work                   | Medium | Will require time to interact with members
+| Visibility                        | Medium | Easy to forget, ignore, or overlook, but community might talk about news
+| Necessity to pay                  | Low    | Voluntary; Low countervalue; Might work for curious / social people in the community
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Countervalue                      | Access | Will cause additional work to communicate with community
+| Scalability                       | Medium | Scales with the number of users (who want interact with community)
+| Effort for marketing              | Medium | Similar to donations but access might get users to talk about the new stuff
 | Competitors                       | None   | 
+| Software types                    | All    | 

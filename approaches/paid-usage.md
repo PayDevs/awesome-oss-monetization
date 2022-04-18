@@ -25,22 +25,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Integration of a value-generating subsystem
-| Effort to maintain income         | Low    | Probably only updating subsystem
-| Visibility                        | Low    | Easy to overlook by users
-| Necessity to pay                  | High   | Payment is enforced by running the OSS
-| Scalability                       | High   | Scales with the number of running instances
+| Effort to maintain                | Low    | Probably only updating subsystem
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | None   | 
 | One-time Income                   | N/A    | Value-generating subsystem probably causes recurring revenue
 | Recurring Income                  | Medium | Depends on the value created and number of running instances
-| Income Stability / Predictability | Medium | If the clients have no alternative and value-generating subsystem is not problematic
-| Entry Threshold for client        | None   | Client only pays indirectly via his hoster/cloud for the resources
-| Clients needed for full income    | ?1000+ | Depends heavily on efficiency / pricing of the value-generating subsystem
-
-| Effort for marketing              | None   | Will make waves but no "sale" is necessary
-| Countervalue                      | OSS    | User pays for using the OSS
-| Perfect for software type         | Special| Best for stand-alone systems on one server (e.g., databases, blogs, LMS, etc.)
-
-| Additional Work                   | Low    | Extra work to initially integrate value-generating subsystem
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | None   | 
+| Income Predictability             | Medium | If the clients have no alternative and value-generating subsystem is not problematic
+| Full income Threshold             | ?1000+ | Depends heavily on efficiency / pricing of the value-generating subsystem
 | Recipient                         | C      | 
+| Additional Work                   | Low    | Extra work to initially integrate value-generating subsystem
+| Visibility                        | Low    | Easy to overlook by users
+| Necessity to pay                  | High   | Payment is enforced by running the OSS
+| Entry Threshold                   | None   | Client only pays indirectly via his hoster/cloud for the resources
+| Countervalue                      | OSS    | User pays for using the OSS
+| Scalability                       | High   | Scales with the number of running instances
+| Effort for marketing              | None   | Will make waves but no "sale" is necessary
 | Competitors                       | None   | 
+| Software types                    | Special| Best for stand-alone systems on one server (e.g., databases, blogs, LMS, etc.)

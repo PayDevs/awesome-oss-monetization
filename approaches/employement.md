@@ -22,22 +22,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Negotiating contract between different countries
-| Effort to maintain income         | Low    | The contract could be terminated if OSS support is deemed no longer important
-| Visibility                        | Low    | Notice on website to hire a maintainer are easy to overlook
-| Necessity to pay                  | Low    | Complex contracts; Voluntary but might bring good PR to company
-| Scalability                       | None   | Probably one one employment possible (part-time or freelancing might be used)
+| Effort to maintain                | Low    | The contract could be terminated if OSS support is deemed no longer important
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | None   | 
 | One-time Income                   | Medium | Only if freelancing for a solution / feature
 | Recurring Income                  | Medium | Probably in the range of a normal salary in the employer's country
-| Income Stability / Predictability | High   | Depends on the contract
-| Entry Threshold for client        | Low    | Similar to other employees of the company
-| Clients needed for full income    | 1+     | based on 5k USD (pre-Tax)
-
-| Effort for marketing              | High   | Finding a 100% job is very hard; When working partially for company's product is easier (due to War for Talents)
-| Countervalue                      | Work   | 
-| Perfect for software type         | All    | 
-
-| Additional Work                   | Medium | Might vary between 0 and 80% - depends other work for the company.
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | None   | 
+| Income Predictability             | High   | Depends on the contract
+| Full income Threshold             | 1+     | 
 | Recipient                         | I      | 
+| Additional Work                   | Medium | Might vary between 0 and 80% - depends other work for the company.
+| Visibility                        | Low    | Notice on website to hire a maintainer are easy to overlook
+| Necessity to pay                  | Low    | Complex contracts; Voluntary but might bring good PR to company
+| Entry Threshold                   | Low    | Similar to other employees of the company
+| Countervalue                      | Work   | 
+| Scalability                       | None   | Probably one one employment possible (part-time or freelancing might be used)
+| Effort for marketing              | High   | Finding a 100% job is very hard; When working partially for company's product is easier (due to War for Talents)
 | Competitors                       | M      | Another maintainer might be a competior for a (remote) job
+| Software types                    | All    | 

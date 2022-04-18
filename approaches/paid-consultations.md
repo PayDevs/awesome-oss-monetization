@@ -27,24 +27,22 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Requires a booking platform and banking info. Might require freelance status
-| Effort to maintain income         | Medium | Constant reminders to consult might be necessary. Updating slides or acquaintance with customer's problems might be necessary
-| Visibility                        | Medium | Easy to forget, ignore, or overlook, but community might talk about it
-| Necessity to pay                  | Low    | Might increase with the complexity of the software
-| Scalability                       | Low    | Scales to the time available to consult
+| Effort to maintain                | Medium | Constant reminders to consult might be necessary. Updating slides or acquaintance with customer's problems might be necessary
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | None   | 
 | One-time Income                   | Medium | Often based on hourly wage - but can grow with demand
 | Recurring Income                  | Low    | Only for longer projects with companies
-| Income Stability / Predictability | Low    | Too complex --> no users; Too easy to understand --> no income
-| Entry Threshold for client        | Low    | Credit card is sufficient
-| Clients needed for full income    | 100+   | clients per month; based on 5k USD (pre-Tax)
-
-| Effort for marketing              | High   | 
-| Countervalue                      | Work   | 
-| Perfect for software type         | All    | Better for fast changing software
-
-| Additional Work                   | Medium | Extra time to consult necessary
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | None   | 
+| Income Predictability             | Low    | Too complex --> no users; Too easy to understand --> no income
+| Full income Threshold             | 100+   | clients per month; 
 | Recipient                         | I      | 
+| Additional Work                   | Medium | Extra time to consult necessary
+| Visibility                        | Medium | Easy to forget, ignore, or overlook, but community might talk about it
+| Necessity to pay                  | Low    | Might increase with the complexity of the software
+| Entry Threshold                   | Low    | Credit card is sufficient
+| Countervalue                      | Work   | 
+| Scalability                       | Low    | Scales to the time available to consult
+| Effort for marketing              | High   | 
 | Competitors                       | O      | 
+| Software types                    | All    | Better for fast changing software
 
 > NOTE: Potentially, the consultations can also be done by non-maintainers (i.e., just an expert), which could increase the competition.

@@ -25,22 +25,20 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Applications often require longer descriptions and impact analysis
-| Effort to maintain income         | Medium | Often runs automatical for several month
-| Visibility                        | None   | Projects seek out funds - no visibility required / possible?
-| Necessity to pay                  | Low    | Completely voluntary but funds often have to spend their budget
-| Scalability                       | Low    | Multiple grands not always possible
+| Effort to maintain                | Medium | Often runs automatical for several month
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | None   | 
 | One-time Income                   | Medium | Can encompass several person-month for salaries
 | Recurring Income                  | Medium | Often runs for several month but very hard to renew for a second period
-| Income Stability / Predictability | Low    | Stable for several months but very hard to renew or find another grant
-| Entry Threshold for client        | Medium | Often easy if maintainers are from one country. Harder for international projects.
-| Clients needed for full income    | 1+     | based on 5k USD (pre-Tax)
-
-| Effort for marketing              | N/A    | Funds often have application phases 
-| Countervalue                      | Work   | Can range from unrestricted use of money to development of specific features 
-| Perfect for software type         | All    | Easier for high impact / visibile projects that can be explained to the public
-
-| Additional Work                   | Low    | Might require documentation, PR work, etc.
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | None   | 
+| Income Predictability             | Low    | Stable for several months but very hard to renew or find another grant
+| Full income Threshold             | 1+     | 
 | Recipient                         | I + C  | Often specific for a person but can go to a legal entity
+| Additional Work                   | Low    | Might require documentation, PR work, etc.
+| Visibility                        | None   | Projects seek out funds - no visibility required / possible?
+| Necessity to pay                  | Low    | Completely voluntary but funds often have to spend their budget
+| Entry Threshold                   | Medium | Often easy if maintainers are from one country. Harder for international projects.
+| Countervalue                      | Work   | Can range from unrestricted use of money to development of specific features 
+| Scalability                       | Low    | Multiple grands not always possible
+| Effort for marketing              | N/A    | Funds often have application phases 
 | Competitors                       | M      | Another maintainer might be a competior for a person-specific grant
+| Software types                    | All    | Easier for high impact / visibile projects that can be explained to the public

@@ -27,24 +27,22 @@ Variants & Options:
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
 | Effort to set-up                  | Medium | Integration and setup of several small subsystems
-| Effort to maintain income         | Low    | Probably only updating subsystem
-| Visibility                        | Low    | Low performance / functionality might be OK for user
-| Necessity to pay                  | Low    | Might be OK for user but can be made uncomfortable
-| Scalability                       | Medium | Scales with the number of users (who need the performance)
+| Effort to maintain                | Low    | Probably only updating subsystem
+| Cost to set-up                    | None   | 
+| Cost to maintain                  | Low    | Platform used for unlocking might cost a little (or a share of the income)
 | One-time Income                   | High   | ICO might bring a bigger initial income
 | Recurring Income                  | Medium | Depends on the value created and number of running instances
-| Income Stability / Predictability | Medium | If users accept paying it should become stable; Crypto might be very volatile
-| Entry Threshold for client        | Medium | Paying for API access might be easy but paying in crypto might be more complex
-| Clients needed for full income    | 500+   | Price can be set by maintainers
-
-| Effort for marketing              | Low    | Will make waves but no "sale" is necessary
-| Countervalue                      | Perf.  | User pays for performance or unlocked features
-| Perfect for software type         | Special| Best for stand-alone systems on one server (e.g., databases, blogs, LMS, etc.)
-
-| Additional Work                   | Low    | Extra work to initially develop unlocking system
-| Upfront Cost                      | None   | 
-| Continuous Cost                   | Low    | Platform used for unlocking might cost a little (or a share of the income)
+| Income Predictability             | Medium | If users accept paying it should become stable; Crypto might be very volatile
+| Full income Threshold             | 500+   | Price can be set by maintainers
 | Recipient                         | C      | 
+| Additional Work                   | Low    | Extra work to initially develop unlocking system
+| Visibility                        | Low    | Low performance / functionality might be OK for user
+| Necessity to pay                  | Low    | Might be OK for user but can be made uncomfortable
+| Entry Threshold                   | Medium | Paying for API access might be easy but paying in crypto might be more complex
+| Countervalue                      | Perf.  | User pays for performance or unlocked features
+| Scalability                       | Medium | Scales with the number of users (who need the performance)
+| Effort for marketing              | Low    | Will make waves but no "sale" is necessary
 | Competitors                       | None   | 
+| Software types                    | Special| Best for stand-alone systems on one server (e.g., databases, blogs, LMS, etc.)
 
 > NOTE: Due to the nature of open-source a user can fork and remove the unlock check. But he had to do it every time and the maintainers could forbid it in a special License.
