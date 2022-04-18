@@ -128,11 +128,11 @@ If you want to monetize your open-source project several factors have to be cons
 * __Using a private bank account__ for collecting funds for your project is not a good idea. An extra bank account or fiscal host for the project to collect the funding and distribute it from there will help in being transparent.
 
 ## Links to other Monetization Lists
-[1] [https://en.wikipedia.org/wiki/Business_models_for_open-source_software]
+[1] <https://en.wikipedia.org/wiki/Business_models_for_open-source_software>
 
-[2] [https://github.com/nayafia/lemonade-stand] 
+[2] <https://github.com/nayafia/lemonade-stand>
 
-[3] [https://www.oss.fund]
+[3] <https://www.oss.fund>
 
 [4] [Charvat, Karel & Cerba, Otakar & Ježek, Jan & Fryml, Josef & Pospisil, Martin. (2009). Open Source Business Models and Strategies.](https://www.researchgate.net/publication/236023177_Open_Source_Business_Models_and_Strategies)
 
