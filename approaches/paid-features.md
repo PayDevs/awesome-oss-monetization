@@ -14,6 +14,7 @@ Variants & Options:
 * Single Feature: Development of one request
 * Bulk Features: Implementation of multiple features (border on freelance contracting)
 * Auctioned Feature development: Highest bidder gets to choose the feature to implement next
+* Custom Features: Development of features that only the buyer gets
 
 ## Platforms
 * [IssueHunt](https://issuehunt.io/)

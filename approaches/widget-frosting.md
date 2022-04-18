@@ -1,7 +1,7 @@
 > WARN: this is still work in progress!
 
-# Monetization via Widget Frosting
-AKA: Bundle with Hardware
+# Monetization via Paid Bundling
+AKA: Widget Frosting, Bundle with Hardware
 
 (selling hardware on-top of OSS)_
 

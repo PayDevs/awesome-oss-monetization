@@ -1,6 +1,5 @@
-> WARN: this is still work in progress!
-
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 # Awesome OSS Monetization
 A curated list of awesome monetization approaches for open source software. 
@@ -49,7 +48,7 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * [Paid Online Courses](./approaches/paid-courses.md)
 * [Paid Naming Rights](./approaches/paid-version-names.md)
 * [Paid Merchandise or Books](./approaches/paid-merchandise.md)
-* [Paid Tools / Extensions / Plugins](./approaches/paid-tools.md)
+* [Paid Tools & Extensions](./approaches/paid-tools.md)
 * [Paid Newsletter](./approaches/paid-newsletter.md)
 
 ### Paid Licences
@@ -60,7 +59,7 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 
 ### Paid Services
 * [Paid Hosting / Open SaaS](./approaches/paid-hosting.md)
-* [Widget Frosting](./approaches/widget-frosting.md)
+* [Paid Bundling / Widget Frosting](./approaches/widget-frosting.md)
 * [Paid Content Service](./approaches/paid-content-service.md)
 * [Paid Data Storage](./approaches/paid-storage.md)
 
@@ -90,13 +89,14 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 
 ### Used Characteristics
 In order to compare, evaluate, and explain the monetization approaches, several characteristics were used: 
-* __Effort to set-up__: The amount of work required to start the monetization approach. [None; Low; Medium; High; N/A]
+* __Effort to set-up__: The amount of work required to start the monetization approach. [None; Low; Medium; High; N/A] or [None; Hours; Days; Weeks; Months; Years; N/A]
 * __Effort to maintain income__: The amount of work needed to keep the monetization going. 
 * __Visibility__: The ease with which a user of the OSS notices the monetization approach. 
 * __Necessity to pay__: The need for the user of an OSS to accept and pay. 
 * __Scalability__: The ease and number of users or companies that can be reached to pay. 
 * __One-time Income__: The level of one single contribution. 
 * __Recurring Income__: The level of monthly contribution that can be expected. 
+* __Income Stability / Predictability__: [None; Low; Medium; High; N/A] or [None; Hours; Days; Weeks; Months; Years; N/A]
 * __Entry Threshold for client__: The amount of effort necessary to contribute money. 
 * __Clients needed for full income__: The amount of payers necessary to get to 5k USD (pre-Tax) per month. 
 
