@@ -1,4 +1,5 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/❤-Open%20Source-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 # Awesome OSS Monetization
@@ -6,6 +7,8 @@ A curated list of awesome monetization approaches for open source software.
 Currently, probably with a slight bias towards open source libraries (like react.js, core-js, etc.) rather than open source programs (like OpenOffice, MariaDB, etc.). 
 
 Furthermore, the monetization approaches are meant for maintainers of the OSS - not external third-parties trying to make money with an OSS (e.g., by getting hired as an Consultant for an OSS). 
+
+![](./images/money_seedling.jpg?raw=true)
 
 __Table of Contents__
 - [Awesome OSS Monetization](#awesome-oss-monetization)
