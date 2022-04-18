@@ -23,7 +23,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Low    | Some descriptions and bank info is sufficient
+| Effort to set-up                  | Hours  | Some descriptions and bank info is sufficient
 | Effort to maintain                | Medium | Continuous producing of content
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | Hosting services often take a share of income

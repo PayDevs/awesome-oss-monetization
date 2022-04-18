@@ -22,7 +22,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | High   | Creation of a legal entity with licences, documents, etc.
+| Effort to set-up                  | Weeks  | Creation of a legal entity with licences, documents, etc.
 | Effort to maintain                | Medium | Finding new customers will become necessary
 | Cost to set-up                    | Medium | Will require a lawyer to setup the license and contracts
 | Cost to maintain                  | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)

@@ -23,7 +23,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Logo-design can be outsourced. Creating a book is a lot of work
+| Effort to set-up                  | Days   | Logo-design can be outsourced. Creating a book is a lot of work
 | Effort to maintain                | Low    | Updating merchandise is almost no work, updating books is more work
 | Cost to set-up                    | Low    | Low cost from Logo design, etc.
 | Cost to maintain                  | None   | 

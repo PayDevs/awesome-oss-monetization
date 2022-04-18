@@ -8,8 +8,6 @@ Currently, probably with a slight bias towards open source libraries (like react
 
 Furthermore, the monetization approaches are meant for maintainers of the OSS - not external third-parties trying to make money with an OSS (e.g., by getting hired as an Consultant for an OSS). 
 
-![](./images/money_seedling.webp?raw=true)
-
 __Table of Contents__
 - [Awesome OSS Monetization](#awesome-oss-monetization)
   - [Monetization Approaches](#monetization-approaches)
@@ -30,7 +28,8 @@ This list is the result of extensive internet research, compiling all the moneti
 
 Feel free to commit corrections, additions, or further examples. The contribution guidelines are [here](./contributing.md)
 
----
+![](./images/money_seedling.webp?raw=true)
+
 ## Monetization Approaches
 
 In the following sections you can find the categorized list of monetization approaches for open-source software. The categories are based on the concept the payer is paying for - e.g., the category "Paid Content" combines approaches where a User pays for some additional content such as Merchandise.
@@ -88,30 +87,35 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * TBD: Paid Binary / Selling without proprietary license (https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Selling_without_proprietary_license) [Paid Binary](./approaches/paid-binary.md) 
 
 ---
+
 ## Notes
 
 ### Used Characteristics
-In order to compare, evaluate, and explain the monetization approaches, several characteristics were used: 
-* __Effort to set-up__: The amount of work required to start the monetization approach. [None; Low; Medium; High; N/A] or [None; Hours; Days; Weeks; Months; Years; N/A]
-* __Effort to maintain       __: The amount of work needed to keep the monetization going. 
-* __Visibility__: The ease with which a user of the OSS notices the monetization approach. 
-* __Necessity to pay__: The need for the user of an OSS to accept and pay. 
-* __Scalability__: The ease and number of users or companies that can be reached to pay. 
-* __One-time Income__: The level of one single contribution. 
-* __Recurring Income__: The level of monthly contribution that can be expected. 
-* __Income Predictability            __: [None; Low; Medium; High; N/A] or [None; Hours; Days; Weeks; Months; Years; N/A]
-* __Entry Threshold           __: The amount of effort necessary to contribute money. 
-* __Full income Threshold         __: The amount of payers necessary to get to 5k USD (pre-Tax) per month. 
+In order to compare, evaluate, and explain the monetization approaches, several characteristics were used. In general, we are assuming that all contributors are on board and have agreed on a distribution key for the income.
 
-* __Effort for marketing__: The amount of work necessary to make the monetization opportunity known to the public. 
-* __Countervalue__: The value a contributor of money gets if he pays. 
-* __Software types           __: The types of OSS that would benefit the most from this onetization approach. 
+#### Maintainer-specific Characteristics
+* __Effort to set-up__: The amount of work required to start the monetization approach. Measured in time [None; Hours; Days; Weeks; Months; Years; N/A]
+* __Effort to maintain__: The amount of work needed to keep the monetization going. Measured in [None; Low; Medium; High; N/A]
+* __Cost to set-up__: The monetary cost to setup the monetization approach (e.g., for external services) - excluding cost for private bank accounts, tax advisors, etc. Measured in [None; Low; Medium; High; N/A]
+* __Cost to maintain__: The monetary cost to maintain the monetization approach over time (e.g., for the hosting of certificates). Measured in [None; Low; Medium; High; N/A]
+* __One-time Income__: The level of one single contribution. Measured in [None; Low; Medium; High; N/A]
+* __Recurring Income__: The level of monthly contribution that can be expected. Measured in [None; Low; Medium; High; N/A]
+* __Income Predictability__: The stability of the income in the future. Measured in [None; Low; Medium; High; N/A]
+* __Full income Threshold__: The amount of clients/payers necessary to get to 5k USD (pre-Tax) per month. Measured in [Number of Payers]
+* __Recipient__: The entity receiving the monetization result - and who might distribute it further. Measured in [I: Individual; C: Collective/Company]
+* __Additional Work__: The amount of (continuous) work required in addition to working on the OSS. Measured in [None; Low; Medium; High; N/A]
 
-* __Additional Work__: The amount of (continuous) work required in addition to working on the OSS. 
-* __Upfront Cost__: The monetary cost to setup the monetization approach (e.g., for external services) - excluding cost for private bank accounts, tax advisors, etc. 
-* __Continuous Cost__: The monetary cost to maintain the monetization approach over time (e.g., for the hosting of certificates)
-* __Recipient__: The entity receiving the monetization result - and who might distribute it further (I: Individual, C: Collective/Company)
-* __Competitors__: The kind of competitors for this monetization approach (M: Other maintainers, C: Contributors, O: Other Developers, Companies, or Content creators)
+#### Payer-specific Characteristics
+* __Visibility__: The ease with which a payer of the OSS notices the monetization approach. Measured in [None; Low; Medium; High; N/A]
+* __Necessity to pay__: The need for the user of an OSS to accept and pay. Measured in [None; Low; Medium; High; N/A]
+* __Entry Threshold__: The amount of effort necessary to contribute money. Measured in [None; Low; Medium; High; N/A]
+* __Countervalue__: The value a contributor of money gets in return, if he pays. Measured in [a thing]
+* __Scalability__: The ease and number of users or companies that can be reached to pay. Measured in [None; Low; Medium; High; N/A]
+
+#### Monetization Approach-specific Characteristics
+* __Effort for marketing__: The amount of work necessary to make the monetization opportunity known to the public. Measured in [None; Low; Medium; High; N/A]
+* __Competitors__: The kind of competitors for this monetization approach. Measured in [M: Other maintainers; C: Contributors; O: Other Developers, Companies, or Content creators]
+* __Software types__: The types of OSS that would benefit the most from this onetization approach. Measured in [a type]
 
 ### Monetization Risks
 If you want to monetize your open-source project several factors have to be considered. For legal and tax related info you should ask a lawyer or tax advisor - potentially, for all countries in which your contributors live in.

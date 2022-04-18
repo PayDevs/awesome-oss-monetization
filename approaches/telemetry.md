@@ -21,7 +21,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Integration of a data collection system
+| Effort to set-up                  | Weeks  | Integration of a data collection system
 | Effort to maintain                | Low    | Probably only updating subsystem
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | Low    | Platform used to collect telemetry data might cost a little (or take a share of the income)

@@ -23,7 +23,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Contracts require more time to define (one-time) and negotiate (per company)
+| Effort to set-up                  | Weeks  | Contracts require more time to define (one-time) and negotiate (per company)
 | Effort to maintain                | Low    | If companies or middleman is still interested only maintenance work is required
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | 

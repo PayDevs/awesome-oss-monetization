@@ -26,7 +26,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Low    | Some descriptions and bank info is sufficient
+| Effort to set-up                  | Hours  | Some descriptions and bank info is sufficient
 | Effort to maintain                | High   | New descriptions and pricings for every new bug & development time
 | Cost to set-up                    | None   | Bug Bounty software is often free or only take a small cut
 | Cost to maintain                  | None    | Bug Bounty software is often free or only take a small cut

@@ -24,7 +24,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Applications often require longer descriptions and impact analysis
+| Effort to set-up                  | Weeks  | Applications often require longer descriptions and impact analysis
 | Effort to maintain                | Medium | Often runs automatical for several month
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | 

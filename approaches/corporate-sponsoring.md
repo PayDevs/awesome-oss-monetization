@@ -23,7 +23,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Companies might need more documentation than for donations
+| Effort to set-up                  | Days   | Companies might need more documentation than for donations
 | Effort to maintain                | Medium | Companies are more likely to inject new money
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | 

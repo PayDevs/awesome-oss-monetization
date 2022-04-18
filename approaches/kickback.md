@@ -21,7 +21,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Application to be approved by a hoster; Might need extra work to convert credits into real money
+| Effort to set-up                  | Weeks  | Application to be approved by a hoster; Might need extra work to convert credits into real money
 | Effort to maintain                | Low    | 
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | Low    | Maybe a little work to use or exchange the credits

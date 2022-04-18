@@ -21,7 +21,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Implement data storage and payment system
+| Effort to set-up                  | Days   | Implement data storage and payment system
 | Effort to maintain                | Low    | Backup and maintain data storage
 | Cost to set-up                    | Low    | Maybe for DB and backup
 | Cost to maintain                  | Low    | Cost of data storage & backup

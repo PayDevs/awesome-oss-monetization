@@ -23,7 +23,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Low    | Some descriptions and bank info is sufficient
+| Effort to set-up                  | Days   | Some descriptions and bank info is sufficient
 | Effort to maintain                | Medium | New description for every new version & development time
 | Cost to set-up                    | Low    | Maybe some costs for making a great video / demo of the future version
 | Cost to maintain                  | None   | No cost after if funding goal is reached. But process is repeatable with next version

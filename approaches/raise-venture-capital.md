@@ -26,7 +26,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | High   | Basically, setup of a full business and fundraising
+| Effort to set-up                  | Months | Basically, setup of a full business and fundraising
 | Effort to maintain                | Medium | In the beginning fundraising every 18 months; Later hopefully break-even, IPO, etc.
 | Cost to set-up                    | Low    | Might require small investment in domain name, trademark, etc.
 | Cost to maintain                  | None   | After seed-round the invested money can be used from the startup

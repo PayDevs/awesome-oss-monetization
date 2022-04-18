@@ -26,7 +26,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Low    | Only requires private repository or password-protected website
+| Effort to set-up                  | Hours  | Only requires private repository or password-protected website
 | Effort to maintain                | High   | Constant reminders to sponsor necessary; Requires additional "publish" step
 | Cost to set-up                    | Low    | Might require a little money for hosting private repos/content 
 | Cost to maintain                  | Low    | Might require a little money for hosting private repos/content 

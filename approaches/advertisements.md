@@ -22,7 +22,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Low    | Integration of code for ads and bank info is sufficient
+| Effort to set-up                  | Hours  | Integration of code for ads and bank info is sufficient
 | Effort to maintain                | Low    | Maybe minor version updates
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | 

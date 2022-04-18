@@ -28,7 +28,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Might require Course System and/or Certificate Hosting.
+| Effort to set-up                  | Weeks  | Might require training materials, Course System and/or Certificate Hosting.
 | Effort to maintain                | Medium | Constant reminders to certify might be necessary. Updating certificates and training material might be necessary
 | Cost to set-up                    | Low    | Maybe cost for a designer to design certificates
 | Cost to maintain                  | Low    | Hosting of certificates might cost

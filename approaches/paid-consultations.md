@@ -26,7 +26,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Requires a booking platform and banking info. Might require freelance status
+| Effort to set-up                  | Days   | Requires a booking platform and banking info. Might require freelance status
 | Effort to maintain                | Medium | Constant reminders to consult might be necessary. Updating slides or acquaintance with customer's problems might be necessary
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | 

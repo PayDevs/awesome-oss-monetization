@@ -25,7 +25,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | High   | Creating a complete course is a lot of work
+| Effort to set-up                  | Weeks  | Creating a complete course is a lot of work
 | Effort to maintain                | Medium | Updating the course or continuously creating short videos is time-consuming
 | Cost to set-up                    | None   | Depends on quality: can include camera, greenscreen, etc.
 | Cost to maintain                  | None   | Hosting the course might cost a little bit (but should be covered by income)

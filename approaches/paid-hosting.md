@@ -25,7 +25,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | High   | Creation of a legal entity and platform/website
+| Effort to set-up                  | Months | Creation of a legal entity and platform/website
 | Effort to maintain                | Medium | Finding new customers will become necessary
 | Cost to set-up                    | Medium | Will require a lawyer to setup the license and contracts
 | Cost to maintain                  | Medium | Will cause costs for resources, legal, and tax related stuff (but should be covered by income)

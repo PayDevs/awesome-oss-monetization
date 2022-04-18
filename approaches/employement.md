@@ -21,7 +21,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Negotiating contract between different countries
+| Effort to set-up                  | Weeks  | Negotiating contract between different countries
 | Effort to maintain                | Low    | The contract could be terminated if OSS support is deemed no longer important
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | 

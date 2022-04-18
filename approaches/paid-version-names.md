@@ -21,7 +21,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Low    | 
+| Effort to set-up                  | Hours  | 
 | Effort to maintain                | None   | 
 | Cost to set-up                    | Medium | Maybe cost for generation of NFT
 | Cost to maintain                  | Low    | Maybe cost for hosting of NFT

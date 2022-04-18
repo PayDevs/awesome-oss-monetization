@@ -26,7 +26,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Integration and setup of several small subsystems
+| Effort to set-up                  | Days   | Integration and setup of several small subsystems
 | Effort to maintain                | Low    | Probably only updating subsystem
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | Low    | Platform used for unlocking might cost a little (or a share of the income)

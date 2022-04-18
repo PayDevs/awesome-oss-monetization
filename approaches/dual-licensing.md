@@ -22,7 +22,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | High   | Creation of a commercial license and legal documents
+| Effort to set-up                  | Weeks  | Creation of a commercial license and legal documents
 | Effort to maintain                | Low    | Maybe reminders that commercial use is needed
 | Cost to set-up                    | Medium | Will require a lawyer to setup the license and contracts
 | Cost to maintain                  | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)

@@ -27,7 +27,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | High   | Requires development of additional hardware and shop
+| Effort to set-up                  | Months | Requires development of additional hardware and shop
 | Effort to maintain                | Medium | Requires buying hardware parts, bundling, shipping, etc.
 | Cost to set-up                    | High   | Hardware production or purchasing cost
 | Cost to maintain                  | Medium | Maybe Hardware development cost

@@ -24,7 +24,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Integration of a value-generating subsystem
+| Effort to set-up                  | Weeks  | Integration of a value-generating subsystem
 | Effort to maintain                | Low    | Probably only updating subsystem
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | 

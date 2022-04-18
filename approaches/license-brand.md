@@ -20,7 +20,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Requires brand building and creation of legal documents
+| Effort to set-up                  | Years  | Requires brand building and creation of legal documents
 | Effort to maintain                | Low    | Depends on the popularity and size of target group
 | Cost to set-up                    | Medium | Will require a lawyer to setup the license and contracts
 | Cost to maintain                  | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)

@@ -24,7 +24,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | High   | Requires development of additional software, hosting and payment
+| Effort to set-up                  | Months | Requires development of additional software, hosting and payment
 | Effort to maintain                | Medium | Only updates are required from time to time
 | Cost to set-up                    | Medium | Will require a lawyer to setup the license and contracts
 | Cost to maintain                  | Low    | Will cause costs for legal or tax related stuff (but should be covered by income)

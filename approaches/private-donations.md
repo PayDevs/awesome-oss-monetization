@@ -26,7 +26,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Low    | Some descriptions and bank info is sufficient
+| Effort to set-up                  | Hours  | Some descriptions and bank info is sufficient
 | Effort to maintain                | High   | Constant reminders to donate necessary
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | 

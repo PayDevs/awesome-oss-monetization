@@ -23,7 +23,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Negotiations with contributors; Contract setup  
+| Effort to set-up                  | Weeks  | Contract setup; Finding a buyer might take long.
 | Effort to maintain                | N/A    | One-time sale; Multiple sales for parts possible
 | Cost to set-up                    | Low    | Might get higher if bullet-proof contracts are needed
 | Cost to maintain                  | None   | 

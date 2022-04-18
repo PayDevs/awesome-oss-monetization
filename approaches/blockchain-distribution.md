@@ -19,7 +19,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Low    | Registering at the blockchain-based package manager
+| Effort to set-up                  | Hours  | Registering at the blockchain-based package manager
 | Effort to maintain                | Low    | Probably only uploading or registering new versions
 | Cost to set-up                    | None   | 
 | Cost to maintain                  | None   | 

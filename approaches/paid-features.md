@@ -26,7 +26,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Low    | Some descriptions and bank info is sufficient
+| Effort to set-up                  | Hours  | Some descriptions and bank info is sufficient
 | Effort to maintain                | High   | New description for every new feature & feature development
 | Cost to set-up                    | None   | Platforms are often free or only take a small cut
 | Cost to maintain                  | None    | Platforms are often free or only take a small cut

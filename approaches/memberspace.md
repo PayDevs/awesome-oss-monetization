@@ -24,7 +24,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Requires community platform or website
+| Effort to set-up                  | Days   | Requires community platform or website
 | Effort to maintain                | High   | Constant reminders to join the (paid) community necessary; Communication effort in addition to development work
 | Cost to set-up                    | Low    | Might require a little money for community platform or website 
 | Cost to maintain                  | Low    | Might require a little money for community platform or website hosting

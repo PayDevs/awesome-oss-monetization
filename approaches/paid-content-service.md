@@ -23,7 +23,7 @@ Variants & Options:
 
 | Characteristics                   | Value  | Note |
 | --------------------------------- |:------ |:---- |
-| Effort to set-up                  | Medium | Free data hosting probably exists but paid data hosting need to be implemented
+| Effort to set-up                  | Weeks  | Free data hosting probably exists but paid data hosting need to be implemented
 | Effort to maintain                | Medium | Premium data/content has to come from somewhere
 | Cost to set-up                    | Low    | Maybe for hosted content but probably percentage based
 | Cost to maintain                  | Low    | Platform used to host & pay for data might cost 
