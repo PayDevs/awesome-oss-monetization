@@ -132,7 +132,7 @@ If you want to monetize your open-source project several factors have to be cons
 
 [2] <https://github.com/nayafia/lemonade-stand>
 
-[3] [https://www.oss.fund](https://www.oss.fund)
+[3] <https://www.oss.fund>
 
 [4] [Charvat, Karel & Cerba, Otakar & Ježek, Jan & Fryml, Josef & Pospisil, Martin. (2009). Open Source Business Models and Strategies.](https://www.researchgate.net/publication/236023177_Open_Source_Business_Models_and_Strategies)
 
