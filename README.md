@@ -8,7 +8,7 @@ Currently, probably with a slight bias towards open source libraries (like react
 
 Furthermore, the monetization approaches are meant for maintainers of the OSS - not external third-parties trying to make money with an OSS (e.g., by getting hired as an Consultant for an OSS). 
 
-![](./images/money_seedling.jpg?raw=true)
+![](./images/money_seedling.webp?raw=true)
 
 __Table of Contents__
 - [Awesome OSS Monetization](#awesome-oss-monetization)
