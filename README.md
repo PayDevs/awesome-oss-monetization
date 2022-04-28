@@ -45,6 +45,7 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 * [Paid Early Access](./approaches/early-access.md)
 * [Paid Community Access](./approaches/memberspace.md)
 * [Advertisements on Website(s)](./approaches/advertisements.md)
+* [Paid Binary](./approaches/paid-binary.md) 
 
 ### Paid Content
 * [Paid Online Courses](./approaches/paid-courses.md)
@@ -84,7 +85,6 @@ An explanation of the [Used Characteristics](#used-characteristics) with metrics
 ### Special Monetization Approaches
 * [Raise Venture Capital](./approaches/raise-venture-capital.md)
 * [Sell Project](./approaches/acquisition.md)
-* TBD: Paid Binary / Selling without proprietary license (https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Selling_without_proprietary_license) [Paid Binary](./approaches/paid-binary.md) 
 
 ---
 
