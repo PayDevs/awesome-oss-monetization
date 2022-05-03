@@ -2,8 +2,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/❤-Open%20Source-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub](https://img.shields.io/github/stars/PayDevs/awesome-oss-monetization?style=social)](https://github.com/PayDevs/awesome-oss-monetization)
-
-[![Twitter](https://img.shields.io/twitter/follow/paydevs_com?label=Follow&style=social)](https://twitter.com/paydevs_com)
+     [![Twitter](https://img.shields.io/twitter/follow/paydevs_com?label=Follow&style=social)](https://twitter.com/paydevs_com)
 [![GitHub](https://img.shields.io/github/followers/paydevs?label=Follow&affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/paydevs)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/paydevs?label=Karma&style=social)](https://www.reddit.com/user/paydevs)
 
