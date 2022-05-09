@@ -18,6 +18,7 @@ Variants & Options:
 ## Platforms
 * [Indiemaker](https://indiemaker.co/) (For projects with or without revenue)
 * [SideProjectors](https://www.sideprojectors.com/) (For projects with or without revenue)
+* [GithubStore](https://githubstore.net/) (For buying and selling repositories on Github)
 
 ## Evaluation
 
