@@ -13,7 +13,7 @@ Variants & Options:
 * Sponsor-based: Tokens can be bought by users and gifted (or used to "pay" for downloads)
 
 ## Platforms
-* [tea.xyz](https://tea.xyz/) (Blockchain-based package manager)
+* [tea.xyz](https://tea.xyz/) (Blockchain-based package manager; see also their [Whitepaper](https://tea.xyz/tea.white-paper.pdf))
 
 ## Evaluation
 

@@ -17,7 +17,7 @@ Variants & Options:
 ## Platforms
 * [Tidelift](https://tidelift.com/) (Middleman concept)
 * [tea.xyz](https://techcrunch.com/2022/03/23/open-source-project-tea-is-brew2-for-web3/)
-("guarantee security and reliability to users of open source software projects")
+("guarantee security and reliability to users of open source software projects"; see also their [Whitepaper](https://tea.xyz/tea.white-paper.pdf) in 5.4. "tea tasters")
 
 ## Evaluation
 
