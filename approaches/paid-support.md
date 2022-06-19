@@ -1,5 +1,5 @@
 # Monetization via Paid Support
-AKA: Paid Maintenance, Paid Quality Assurances
+AKA: Paid Maintenance, Paid Quality Assurances, ProServ
 
 Payments by companies to check security issues in their OSS supply chain, ensure specific SLAs, or ensure quick fixes for business-threatening problems in the OSS. Sometimes hidden behind a third-party company (middleman) that handles the bureaucracy, quasi-employs the maintainer, and pays him money.
 

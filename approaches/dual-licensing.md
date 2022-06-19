@@ -1,5 +1,5 @@
 # Monetization via Paid Commercial Use
-AKA: Dual-Licensing, Multi-Licensing, Resticted License, Proprietary Licences, License Exceptions
+AKA: Dual-Licensing, Multi-Licensing, Hybrid licensing,Resticted License, Proprietary Licences, License Exceptions
 
 Different licenses forcing commercial users to pay a license fee to the open source project. Enables recurring payments often with support guarantees or SLAs.
 
