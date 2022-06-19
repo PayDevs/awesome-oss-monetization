@@ -18,6 +18,9 @@ Variants & Options:
 * [Bitcoin Mining](https://en.bitcoin.it/wiki/Mining_software) (Integratin Bitcoin Miner)
 * [RapidAPI](https://rapidapi.com/) (Monetizing an API running on users servers)
 
+## Examples
+* [Hola VPN](https://hola.org/) (integrated Proxy sold as BrightData (f.k.a. Luminati)) *"Users contribute minimal device resources to a vast pool of residential IPs in exchange for a free, unrestricted browsing experience."*
+
 ## Evaluation
 
 | Characteristics                   | Value  | Note |
