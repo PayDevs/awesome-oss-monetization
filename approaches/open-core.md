@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Paid Premium Version
 AKA: Open Core
 

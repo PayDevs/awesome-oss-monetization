@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Advertisements
 
 Money made by placing ads on websites, visible parts of the software, or in-app - or present sponsors to your audience. A recurring income with a bad reputation - often only works for large communities or high traffic websites.

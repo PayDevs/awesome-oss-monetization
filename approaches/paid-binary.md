@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Paid Binary
 AKA: Selling without proprietary license
 

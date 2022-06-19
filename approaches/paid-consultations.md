@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Paid Consultation
 
 Payment offers made by companies or individuals to get face-to-face consultation time with the maintainer(s) in form of workshops, talks, or pair programming sessions.

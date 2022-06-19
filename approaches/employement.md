@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Employment
 
 Payment by getting hired from a company interested in the OSS - probably for business critical parts of their products. 

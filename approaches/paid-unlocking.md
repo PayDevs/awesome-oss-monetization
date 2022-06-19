@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Paid Unlocking
 AKA: Paid performance, Pay for speed, Pay for features, Crippleware, Feature-limited
 

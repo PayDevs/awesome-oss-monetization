@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Early Access
 AKA: Sponsorware, Embargo model, "Unlock the commons", Delayed open-sourcing
 

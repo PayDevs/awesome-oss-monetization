@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Paid Community Access
 AKA: Paid Memberspace, Paid Access, Private Community
 

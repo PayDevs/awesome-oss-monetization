@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Private Donations
 AKA: Donationware
 

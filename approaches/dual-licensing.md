@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Paid Commercial Use
 AKA: Dual-Licensing, Multi-Licensing, Resticted License, Proprietary Licences, License Exceptions
 

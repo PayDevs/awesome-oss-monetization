@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization by selling Telemetry
 AKA: Pay with user data
 

@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Kickback from Hoster
 AKA: Paid by Hoster
 

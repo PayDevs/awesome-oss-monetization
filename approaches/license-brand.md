@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Licensing the Brand
 AKA: Sell use of Trademark
 

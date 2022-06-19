@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization by Paid Content
 AKA: Pay for Data, Virtual Goods, Service Enabler
 

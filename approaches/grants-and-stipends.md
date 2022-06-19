@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Grants and Stipends
 
 Contributions made from institutions, funds, companies, foundations, or organizations to individual maintainers, contributors, or OSS projects. Often these are large or recurring payments to enable quasi-salaries that do not require repayment.

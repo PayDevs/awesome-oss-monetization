@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization by Paid Data Storage
 AKA: Pay for Data Hosting
 

@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Paid Bundling
 AKA: Widget Frosting, Bundle with Hardware
 

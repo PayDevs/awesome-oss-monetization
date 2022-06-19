@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Blockchain Distibution
 
 Contributions made by a user to the OSS project by downloading it with a blockchain-based package manager. Will lead to recurring payments - currently in form of crypto tokens that need to be converted into real money.

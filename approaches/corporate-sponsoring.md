@@ -1,5 +1,3 @@
-> WARN: this is still work in progress!
-
 # Monetization via Corporate Sonsoring
 
 Voluntary contributions made from companies to individual maintainers, contributors, or OSS projects. Often these are one-time sponsorings, but recurring payments in form of quasi-salaries are becoming more common.
