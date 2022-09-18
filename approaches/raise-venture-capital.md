@@ -18,6 +18,7 @@ Variants & Options:
   * [AirTree](https://www.airtree.vc/open-source-vc) (Focus on Australia/New Zealand)
   * [Open Capital](https://opencapital.vc/) (Focus on Europe)
   * [RunaCap](https://runacap.com/ross-index/) ()
+  * [Awesome OSS Investors list](https://github.com/CrowdDotDev/awesome-oss-investors)
   * [... list of OSS Investors](https://index.co/market/open-source/investors)
 
 ## Evaluation
