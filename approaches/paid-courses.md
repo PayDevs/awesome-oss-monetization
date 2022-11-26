@@ -17,6 +17,7 @@ Variants & Options:
 ## Platforms
 * [Udemy](https://www.udemy.com/) (Online Course Platform)
 * [Pluralsight](https://www.pluralsight.com/) (Online Course Platform)
+* [Teachable](https://teachable.com/) (Online Course Platform)
 * [Youtube](https://www.youtube.com/) (Videos with ad revenue)
 
 ## Evaluation
