@@ -14,6 +14,7 @@ Variants & Options:
 
 ## Platforms
 * [CarbonAds](https://www.carbonads.net/)
+* [EthicalAds](https://www.ethicalads.io/)
 * [Google AdSense](https://www.google.com/adsense) etc. (On webpage ads)
 
 ## Evaluation
