@@ -18,6 +18,7 @@ Variants & Options:
 * [IssueHunt](https://issuehunt.io/)
 * [The Bounties Network](https://bounties.network/)
 * [BountySource](https://bountysource.com/)
+* [Blocklancer](https://www.blocklancer.net/)
 * [GitCoin Issue Bounties](https://gitcoin.co/explorer/)
 
 ## Evaluation
