@@ -15,6 +15,7 @@ Variants & Options:
 
 ## Platforms
 * [PayDevs](https://paydevs.com/) (paid compiled libraries in closed registry)
+* [Gumroad](https://gumroad.com/) (paid downloadable binaries, etc.)
 * [Patreon](https://www.patreon.com/) etc. (giving manual access to binaries)
 * [Stripe](https://www.stripe.com/) (payment mechanism)
 * [PayPal](https://www.paypal.com/) (payment mechanism)

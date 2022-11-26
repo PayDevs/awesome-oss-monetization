@@ -15,6 +15,7 @@ Variants & Options:
 ## Platforms
 * [git.market](https://git.market/) (Hosting & Payments for Code)
 * [PrivJS](https://privjs.com/) (Hosting & Payments for JS Libraries)
+* [Gumroad](https://gumroad.com/) (paid downloadable binaries, etc.)
 
 ## Evaluation
 
