@@ -22,6 +22,7 @@ Variants & Options:
 * [PayItFwd](https://payitfwd.dev/)
 * [Stripe](https://www.stripe.com/) (self-build)
 * [PayPal](https://www.paypal.com/) (self-build)
+* [Paddle](https://www.paddle.com/) (self-build with international tax handling)
 
 ## Evaluation
 
