@@ -17,6 +17,7 @@ Variants & Options:
 * [Patreon](https://www.patreon.com/) etc. (giving manual access to binaries)
 * [Stripe](https://www.stripe.com/) (payment mechanism)
 * [PayPal](https://www.paypal.com/) (payment mechanism)
+* [Paddle](https://www.paddle.com/) (self-build with international tax handling)
 
 ## Examples
 * [Ardour](https://community.ardour.org/download_form/)
