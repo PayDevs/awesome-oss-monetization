@@ -14,6 +14,7 @@ Variants & Options:
 * Multi License: Different licenses for startups, freelancer, companies, universities, etc. 
 
 ## Platforms
+* [Fareness.dev](https://fareness.dev/) (programmatic payment checking system based on licences)
 * None required?: Only one codebase and commercial users directly pay to OSS project's bank account
 
 ## Evaluation
