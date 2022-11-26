@@ -18,7 +18,7 @@ Variants & Options:
 * Auctioned Consultation: Highest bidder gets a time-slot for consultation
 
 ## Platforms
-* [xs:code](https://xscode.com/) (Pair-programming support)
+* [Codementor](https://www.codementor.io/) (Mentorship and Pair-programming support)
 
 ## Evaluation
 
