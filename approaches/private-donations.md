@@ -17,6 +17,7 @@ Variants & Options:
 * [Patreon](https://www.patreon.com/)
 * [Flattr](https://flattr.com/)
 * [Github Sponsors](https://github.com/sponsors)
+* [tipee](https://en.tipeee.com/)
 * [Buy Me A Coffee](https://www.buymeacoffee.com/)
 * [thanks.dev](https://thanks.dev/)
 * [StackAid](https://www.stackaid.us/)
