@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/github/followers/paydevs?label=Follow&affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/paydevs)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/paydevs?label=Karma&style=social)](https://www.reddit.com/user/paydevs)
 
-# Awesome OSS Monetization
+# Awesome OSS Monetization v1.1
 A curated list of awesome monetization approaches for open source software. 
 Currently, probably with a slight bias towards open source libraries (like react.js, core-js, etc.) rather than open source programs (like OpenOffice, MariaDB, etc.). 
 
