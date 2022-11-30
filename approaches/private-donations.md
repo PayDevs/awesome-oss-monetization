@@ -14,6 +14,7 @@ Variants & Options:
 * Tiered Donation Levels: Offering of mentions (on Twitter, etc.), swag, chats, meetups, etc. for higher or recurring donations
 
 ## Platforms
+* [Liberapay](https://liberapay.com/)
 * [Patreon](https://www.patreon.com/)
 * [Flattr](https://flattr.com/)
 * [Github Sponsors](https://github.com/sponsors)
