@@ -14,19 +14,23 @@ Variants & Options:
 * Tiered Donation Levels: Offering of mentions (on Twitter, etc.), swag, chats, meetups, etc. for higher or recurring donations
 
 ## Platforms
-* [Liberapay](https://liberapay.com/)
-* [Patreon](https://www.patreon.com/)
-* [Flattr](https://flattr.com/)
 * [Github Sponsors](https://github.com/sponsors)
-* [Ko-fi](https://ko-fi.com/)
-* [tipee](https://en.tipeee.com/)
-* [Buy Me A Coffee](https://www.buymeacoffee.com/)
-* [thanks.dev](https://thanks.dev/)
-* [StackAid](https://www.stackaid.us/)
-* [PayItFwd](https://payitfwd.dev/)
-* [Stripe](https://www.stripe.com/) (self-build)
-* [PayPal](https://www.paypal.com/) (self-build)
-* [Paddle](https://www.paddle.com/) (self-build with international tax handling)
+* [PayItFwd](https://payitfwd.dev/) (NPM based)
+* Dependency-based Distribution
+  * [StackAid](https://www.stackaid.us/) (Based on package.json)
+  * [Thanks.dev](https://thanks.dev/) (Github-repo based)
+  * [Sponsorhello](https://sponsorhello.org/) (Report only?)
+* General Donation Platforms
+  * [Liberapay](https://liberapay.com/)
+  * [Patreon](https://www.patreon.com/)
+  * [Flattr](https://flattr.com/)
+  * [Ko-fi](https://ko-fi.com/)
+  * [tipee](https://en.tipeee.com/)
+  * [Buy Me A Coffee](https://www.buymeacoffee.com/)
+* Self-building
+  * [Stripe](https://www.stripe.com/) (self-build)
+  * [PayPal](https://www.paypal.com/) (self-build)
+  * [Paddle](https://www.paddle.com/) (self-build with international tax handling)
 
 ## Evaluation
 
