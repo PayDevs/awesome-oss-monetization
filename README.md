@@ -148,3 +148,7 @@ If you want to monetize your open-source project several factors have to be cons
 [5] [Sayeed, L., Verma, S., & Bora, A. (2002). Open Source Software Licensing and Business Models. In Proceedings of the Seventh Asia-Pacific Decision Sciences Institute Conference.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.457.6814&rep=rep1&type=pdf)
 
 [6] [Inside Open Source #5 - Overview of Open Source business models](https://davidmeiborg.substack.com/p/inside-open-source-5?s=r#%C2%A7professional-services-proserv)
+
+
+---
+*Author: [Jörg Rech](https://joerg-rech.com/) @ [PayDevs.com](https://www.paydevs.com/) et al.*
