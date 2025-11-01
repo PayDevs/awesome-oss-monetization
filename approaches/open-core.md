@@ -1,7 +1,7 @@
 # Monetization via Paid Premium Version
 AKA: Open Core
 
-A usefull open-source core is free for all but a premium version with additional functionality, performance, security, or portability is available for money. Enables one-time or recurring payments for the additional features.
+A useful open-source core is free for all but a premium version with additional functionality, performance, security, or portability is available for money. Enables one-time or recurring payments for the additional features.
 
 Requires:
 * Setup of a payment mechanism (hosted or self-build)
