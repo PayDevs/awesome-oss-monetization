@@ -149,6 +149,8 @@ If you want to monetize your open-source project several factors have to be cons
 
 [6] [Inside Open Source #5 - Overview of Open Source business models](https://davidmeiborg.substack.com/p/inside-open-source-5?s=r#%C2%A7professional-services-proserv)
 
+[7] [All Money Go My Home](https://github.com/loongmiaow-pixel/all-money-go-my-home) — AI Agent 时代个人赚钱终极指南：GitHub Bounty、漏洞赏金、Fiverr/Upwork 接单、Chrome 扩展变现、SaaS 模板、内容变现等 11 个章节，50+ 平台/工具
+
 
 ---
 *Author: [Jörg Rech](https://joerg-rech.com/) @ [PayDevs.com](https://www.paydevs.com/) et al.*
