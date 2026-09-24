@@ -27,6 +27,7 @@ Variants & Options:
   * [Ko-fi](https://ko-fi.com/)
   * [tipee](https://en.tipeee.com/)
   * [Buy Me A Coffee](https://www.buymeacoffee.com/)
+  * [Nano (XNO)](https://nano.org) — feeless layer-1: self-custodied donation, ~0.3 s finality, no per-donation fee on either side, no issuer that can freeze or reverse a payment, no card or KYC for the donor. Maintainer routes XNO to fiat through a gateway; volatility applies as to any crypto.
 * Self-building
   * [Stripe](https://www.stripe.com/) (self-build)
   * [PayPal](https://www.paypal.com/) (self-build)
