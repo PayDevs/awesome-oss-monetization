@@ -16,9 +16,11 @@ Variants & Options:
 * Workshop: Maintainer works with a customer's team to understand and work with the product
 * Talk: Maintainer gives a talk about using the product
 * Auctioned Consultation: Highest bidder gets a time-slot for consultation
+* Paid Questions: User pays per written question and the maintainer replies in writing, with no time-slot to book
 
 ## Platforms
 * [Codementor](https://www.codementor.io/) (Mentorship and Pair-programming support)
+* [Hotly](https://github.com/designAtHotly/hotly-os) (Paid questions as written notes; self-hosted under Apache 2.0, or hosted)
 
 ## Evaluation
 
